@@ -1,0 +1,272 @@
+# RigRunsAI
+An RTX 4060 fits Qwen3 8B at Q4_K_M, and an RTX 4070 barely fits Qwen3 14B, both at 8K context.
+
+Every machine, one sentence, at the recommended quant and 8192 tokens:
+
+- GeForce RTX 3060 12GB: Yes. GeForce RTX 3060 12GB fits Mistral Nemo 12B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 3060 Ti: Yes. GeForce RTX 3060 Ti fits Qwen3.5 9B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 3070: Yes. GeForce RTX 3070 fits Qwen3.5 9B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 3080 10GB: Yes. GeForce RTX 3080 10GB fits Gemma 4 12B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 3090: Yes. GeForce RTX 3090 fits Gemma 4 31B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 4060: Yes. GeForce RTX 4060 fits Qwen3.5 9B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 4060 Ti 8GB: Yes. GeForce RTX 4060 Ti 8GB fits Qwen3.5 9B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 4060 Ti 16GB: Yes. GeForce RTX 4060 Ti 16GB fits gpt-oss-20b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 4070: Yes. GeForce RTX 4070 fits Mistral Nemo 12B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 4070 Super: Yes. GeForce RTX 4070 Super fits Mistral Nemo 12B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 4070 Ti: Yes. GeForce RTX 4070 Ti fits Mistral Nemo 12B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 4070 Ti Super: Yes. GeForce RTX 4070 Ti Super fits gpt-oss-20b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 4080: Yes. GeForce RTX 4080 fits gpt-oss-20b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 4080 Super: Yes. GeForce RTX 4080 Super fits gpt-oss-20b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 4090: Yes. GeForce RTX 4090 fits Gemma 4 31B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 5060: Yes. GeForce RTX 5060 fits Qwen3.5 9B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 5060 Ti 8GB: Yes. GeForce RTX 5060 Ti 8GB fits Qwen3.5 9B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 5060 Ti 16GB: Yes. GeForce RTX 5060 Ti 16GB fits gpt-oss-20b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 5070: Yes. GeForce RTX 5070 fits Mistral Nemo 12B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 5070 Ti: Yes. GeForce RTX 5070 Ti fits gpt-oss-20b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 5080: Yes. GeForce RTX 5080 fits gpt-oss-20b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- GeForce RTX 5090: Yes. GeForce RTX 5090 fits Qwen3.6 35B-A3B at UD-Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Radeon RX 6600: Yes. Radeon RX 6600 fits Qwen3.5 9B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Radeon RX 6700 XT: Yes. Radeon RX 6700 XT fits Mistral Nemo 12B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Radeon RX 6800 XT: Yes. Radeon RX 6800 XT fits gpt-oss-20b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- Radeon RX 7600: Yes. Radeon RX 7600 fits Qwen3.5 9B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Radeon RX 7700 XT: Yes. Radeon RX 7700 XT fits Mistral Nemo 12B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Radeon RX 7800 XT: Yes. Radeon RX 7800 XT fits gpt-oss-20b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- Radeon RX 7900 XT: Yes. Radeon RX 7900 XT fits Devstral Small 2 24B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Radeon RX 7900 XTX: Yes. Radeon RX 7900 XTX fits Gemma 4 31B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Radeon RX 9060 XT 16GB: Yes. Radeon RX 9060 XT 16GB fits gpt-oss-20b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- Radeon RX 9070 XT: Yes. Radeon RX 9070 XT fits gpt-oss-20b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- Intel Arc A770 16GB: Yes. Intel Arc A770 16GB fits gpt-oss-20b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- Intel Arc B580: Yes. Intel Arc B580 fits Mistral Nemo 12B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Steam Deck LCD: Yes. Steam Deck LCD fits Mistral Nemo 12B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Steam Deck OLED: Yes. Steam Deck OLED fits Mistral Nemo 12B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- ROG Ally: Yes. ROG Ally fits Mistral Nemo 12B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- ROG Ally X: Yes. ROG Ally X fits gpt-oss-20b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- Legion Go: Yes. Legion Go fits Mistral Nemo 12B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M1, 8 GB: Yes. Apple M1, 8 GB fits Gemma 4 E2B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M1, 16 GB: Yes. Apple M1, 16 GB fits Mistral Nemo 12B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M1 Pro, 16 GB: Yes. Apple M1 Pro, 16 GB fits Mistral Nemo 12B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M1 Pro, 32 GB: Yes. Apple M1 Pro, 32 GB fits Gemma 4 31B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M1 Max, 32 GB: Yes. Apple M1 Max, 32 GB fits Gemma 4 31B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M1 Max, 64 GB: Yes. Apple M1 Max, 64 GB fits Qwen3.6 35B-A3B at UD-Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M2, 8 GB: Yes. Apple M2, 8 GB fits Gemma 4 E2B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M2, 16 GB: Yes. Apple M2, 16 GB fits Mistral Nemo 12B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M2, 24 GB: Yes. Apple M2, 24 GB fits gpt-oss-20b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- Apple M2 Pro, 16 GB: Yes. Apple M2 Pro, 16 GB fits Mistral Nemo 12B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M2 Pro, 32 GB: Yes. Apple M2 Pro, 32 GB fits Gemma 4 31B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M2 Max, 32 GB: Yes. Apple M2 Max, 32 GB fits Gemma 4 31B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M2 Max, 64 GB: Yes. Apple M2 Max, 64 GB fits Qwen3.6 35B-A3B at UD-Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M2 Max, 96 GB: Yes. Apple M2 Max, 96 GB fits gpt-oss-120b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- Apple M3, 8 GB: Yes. Apple M3, 8 GB fits Gemma 4 E2B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M3, 16 GB: Yes. Apple M3, 16 GB fits Mistral Nemo 12B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M3, 24 GB: Yes. Apple M3, 24 GB fits gpt-oss-20b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- Apple M3 Pro, 18 GB: Yes. Apple M3 Pro, 18 GB fits DeepSeek-R1 Distill Qwen 14B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M3 Pro, 36 GB: Yes. Apple M3 Pro, 36 GB fits Qwen3.6 35B-A3B at UD-Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M3 Max 16-core, 48 GB: Yes. Apple M3 Max 16-core, 48 GB fits Qwen3.6 35B-A3B at UD-Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M3 Max 16-core, 64 GB: Yes. Apple M3 Max 16-core, 64 GB fits Qwen3.6 35B-A3B at UD-Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M3 Max 16-core, 128 GB: Yes. Apple M3 Max 16-core, 128 GB fits gpt-oss-120b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- Apple M4, 16 GB: Yes. Apple M4, 16 GB fits Mistral Nemo 12B Instruct at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M4, 24 GB: Yes. Apple M4, 24 GB fits gpt-oss-20b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- Apple M4, 32 GB: Yes. Apple M4, 32 GB fits Gemma 4 31B at Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M4 Pro, 24 GB: Yes. Apple M4 Pro, 24 GB fits gpt-oss-20b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+- Apple M4 Pro, 48 GB: Yes. Apple M4 Pro, 48 GB fits Qwen3.6 35B-A3B at UD-Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M4 Pro, 64 GB: Yes. Apple M4 Pro, 64 GB fits Qwen3.6 35B-A3B at UD-Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M4 Max 14-core, 36 GB: Yes. Apple M4 Max 14-core, 36 GB fits Qwen3.6 35B-A3B at UD-Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M4 Max 16-core, 48 GB: Yes. Apple M4 Max 16-core, 48 GB fits Qwen3.6 35B-A3B at UD-Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M4 Max 16-core, 64 GB: Yes. Apple M4 Max 16-core, 64 GB fits Qwen3.6 35B-A3B at UD-Q4_K_M, the largest catalog model that clears the fit line at 8K context.
+- Apple M4 Max 16-core, 128 GB: Yes. Apple M4 Max 16-core, 128 GB fits gpt-oss-120b at MXFP4, the largest catalog model that clears the fit line at 8K context.
+
+Models:
+- Llama 3.2 1B Instruct (2024-09-18, llama3.2): 1B dense instruct model. The architecture numbers are the GGUF header, because Meta's config.json is access-gated.
+- Llama 3.2 3B Instruct (2024-09-18, llama3.2): 3B dense instruct model. Architecture from the public GGUF header.
+- Llama 3.1 8B Instruct (2024-07-18, llama3.1): 8B dense instruct model and the usual baseline for a gaming PC.
+- Llama 3.3 70B Instruct (2024-11-26, llama3.3): 70B dense instruct model. Only the single-file Q4_K_M size is listed; larger quants were split archives.
+- Qwen2.5 7B Instruct (2024-09-16, apache-2.0): Dense Qwen2.5 instruct model. use_sliding_window is false in config.json, so every layer keeps a full KV cache.
+- Qwen2.5 14B Instruct (2024-09-16, apache-2.0): Dense Qwen2.5 instruct model. use_sliding_window is false in config.json, so every layer keeps a full KV cache.
+- Qwen2.5 32B Instruct (2024-09-17, apache-2.0): Dense Qwen2.5 instruct model. use_sliding_window is false in config.json, so every layer keeps a full KV cache.
+- Qwen2.5 72B Instruct (2024-09-16, other): Dense 72B instruct model. The Hugging Face license field is other. Only the single-file Q4_K_M size is listed.
+- Qwen3 8B (2025-04-27, apache-2.0): Dense Qwen3 model with a 40,960-token context. Sliding window is off in config.json.
+- Qwen3 14B (2025-04-27, apache-2.0): Dense Qwen3 model with a 40,960-token context. Sliding window is off in config.json.
+- Qwen3 32B (2025-04-27, apache-2.0): Dense Qwen3 model with a 40,960-token context. Sliding window is off in config.json.
+- Qwen3 30B-A3B (2025-04-27, apache-2.0): Mixture-of-experts Qwen3. All 48 layers are sparse (decoder_sparse_step 1) with 8 of 128 experts active.
+- Qwen3.5 9B (2026-02-27, apache-2.0): Hybrid model: 24 linear-attention layers and 8 full-attention layers. The GGUF used here is the language-model file.
+- Qwen3.8 27B (2026-08-05, apache-2.0): Hybrid 27B model: 48 linear-attention layers and 16 full-attention layers. Recommended file is Unsloth UD-Q4_K_M.
+- Qwen3.6 35B-A3B (2026-04-15, apache-2.0): Hybrid MoE: 256 experts, 8 active, plus a shared expert. 30 layers are linear attention and 10 are full attention.
+- Gemma 3 4B Instruct (2025-02-20, gemma): Sliding-window model. Config sliding_window_pattern is 6, so every 6th layer is full attention and the rest keep a 1,024-token window.
+- Gemma 3 12B Instruct (2025-03-01, gemma): Sliding-window model. Config sliding_window_pattern is 6, so every 6th layer is full attention and the rest keep a 1,024-token window.
+- Gemma 3 27B Instruct (2025-03-01, gemma): Sliding-window model. Config sliding_window_pattern is 6, so every 6th layer is full attention and the rest keep a 1,024-token window.
+- Gemma 4 E2B (2026-03-02, apache-2.0): Small Gemma 4 model. 28 sliding layers (window 512) and 7 full layers. Sliding layers use head_dim and num_key_value_heads. Full layers use global_head_dim. When num_global_key_value_heads is null, full layers keep num_key_value_heads.
+- Gemma 4 E4B (2026-03-02, apache-2.0): Gemma 4 model sized for laptops and handhelds. 35 sliding layers (window 512) and 7 full layers. Sliding layers use head_dim and num_key_value_heads. Full layers use global_head_dim. When num_global_key_value_heads is null, full layers keep num_key_value_heads.
+- Gemma 4 12B (2026-05-23, apache-2.0): Dense Gemma 4 12B. 40 sliding layers (window 1,024) and 8 full layers with global_head_dim 512 and 1 global KV head. Sliding layers use head_dim and num_key_value_heads. Full layers use global_head_dim. When num_global_key_value_heads is null, full layers keep num_key_value_heads.
+- Gemma 4 26B-A4B (2026-03-11, apache-2.0): MoE Gemma 4. config top_k_experts is 8 of num_experts 128, moe_intermediate_size 704. 25 sliding layers and 5 full layers.
+- Gemma 4 31B (2026-03-11, apache-2.0): Dense Gemma 4 31B. 50 sliding layers (window 1,024) and 10 full layers.
+- gpt-oss-20b (2025-08-04, apache-2.0): Open-weight reasoning MoE. The published GGUF is MXFP4, not Q4_K_M. 4 of 32 experts run each token. Half the layers use a 128-token sliding window.
+- gpt-oss-120b (2025-08-04, apache-2.0): Larger gpt-oss MoE. MXFP4 file. 4 of 128 experts run each token.
+- Phi-4 (2024-12-11, mit): Dense 14B-class Phi-4. head_dim is hidden_size / num_attention_heads from config.json (5120 / 40).
+- Phi-4-mini Instruct (2025-02-19, mit): Small Phi-4. The config sliding_window is 262,144, larger than the 131,072 context, so the KV estimate treats every layer as full attention.
+- Mistral Nemo 12B Instruct (2024-07-17, apache-2.0): Dense 12B Mistral. Context used here is config max_position_embeddings, 131,072.
+- Mistral Small 3.2 24B Instruct (2025-06-19, apache-2.0): Dense 24B Mistral Small 3.2 (2506). Ollama's mistral-small:24b tag is labeled 2501, so this page does not show an Ollama command.
+- Devstral Small 2 24B Instruct (2025-11-28, apache-2.0): Mistral's 24B coding model (2512), 40 dense layers, context 393,216. Ollama's devstral:24b tag is the earlier 2505 build, so no command is shown.
+- DeepSeek-R1 Distill Qwen 14B (2025-01-20, mit): Reasoning distill on the Qwen2.5 14B architecture. use_sliding_window is false.
+- DeepSeek-R1 Distill Qwen 32B (2025-01-20, mit): Reasoning distill on the Qwen2.5 32B architecture.
+- SmolLM3 3B (2025-07-08, apache-2.0): Dense 3B model from Hugging Face. All 36 layers are full attention. No Ollama library tag was found for SmolLM3.
+
+Newest first:
+- 2026-08-05 Qwen3.8 27B
+- 2026-05-23 Gemma 4 12B
+- 2026-04-15 Qwen3.6 35B-A3B
+- 2026-03-11 Gemma 4 31B
+- 2026-03-11 Gemma 4 26B-A4B
+- 2026-03-02 Gemma 4 E4B
+- 2026-03-02 Gemma 4 E2B
+- 2026-02-27 Qwen3.5 9B
+
+Pair pages:
+- Yes. A GeForce RTX 3060 12GB runs Llama 3.1 8B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 33–59 tokens per second.
+- No. Llama 3.3 70B Instruct at Q4_K_M does not fit on GeForce RTX 3060 12GB at 8,192 tokens, even with 32 GB of system RAM.
+- Only with CPU offload. gpt-oss-20b at MXFP4 does not fit in the 12 GB on GeForce RTX 3060 12GB, and a 32 GB system RAM pool runs it slowly, roughly 75–109 tokens per second.
+- Tight. Phi-4 at Q4_K_M loads on GeForce RTX 3060 12GB at 8,192 tokens and uses most of the fast memory, roughly 18–32 tokens per second.
+- Tight. Qwen3 14B at Q4_K_M loads on GeForce RTX 3060 12GB at 8,192 tokens and uses most of the fast memory, roughly 19–32 tokens per second.
+- Only with CPU offload. Mistral Small 3.2 24B Instruct at Q4_K_M does not fit in the 12 GB on GeForce RTX 3060 12GB, and a 32 GB system RAM pool runs it slowly, roughly 3–5 tokens per second.
+- Yes. A GeForce RTX 3060 12GB runs Gemma 4 12B at Q4_K_M with room left at 8,192 tokens, roughly 26–40 tokens per second.
+- Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 12 GB on GeForce RTX 3060 12GB, and a 32 GB system RAM pool runs it slowly, roughly 2–3 tokens per second.
+- Yes. A GeForce RTX 3060 12GB runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 32–57 tokens per second.
+- Yes. A GeForce RTX 3060 12GB runs Gemma 4 E4B at Q4_K_M with room left at 8,192 tokens, roughly 38–58 tokens per second.
+- Yes. A GeForce RTX 4060 runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 24–43 tokens per second.
+- Tight. Gemma 4 12B at Q4_K_M loads on GeForce RTX 4060 at 8,192 tokens and uses most of the fast memory, roughly 20–31 tokens per second.
+- Yes. A GeForce RTX 4060 runs Llama 3.1 8B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 25–44 tokens per second.
+- Yes. A GeForce RTX 4060 runs Gemma 4 E4B at Q4_K_M with room left at 8,192 tokens, roughly 29–44 tokens per second.
+- Only with CPU offload. Qwen3 14B at Q4_K_M does not fit in the 8 GB on GeForce RTX 4060, and a 32 GB system RAM pool runs it slowly, roughly 4–6 tokens per second.
+- Only with CPU offload. Phi-4 at Q4_K_M does not fit in the 8 GB on GeForce RTX 4060, and a 32 GB system RAM pool runs it slowly, roughly 4–6 tokens per second.
+- Only with CPU offload. gpt-oss-20b at MXFP4 does not fit in the 8 GB on GeForce RTX 4060, and a 32 GB system RAM pool runs it slowly, roughly 13–19 tokens per second.
+- Only with CPU offload. Mistral Small 3.2 24B Instruct at Q4_K_M does not fit in the 8 GB on GeForce RTX 4060, and a 32 GB system RAM pool runs it slowly, roughly 2 tokens per second.
+- Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 8 GB on GeForce RTX 4060, and a 32 GB system RAM pool runs it slowly, roughly 1–2 tokens per second.
+- Tight. Mistral Small 3.2 24B Instruct at Q4_K_M loads on GeForce RTX 4060 Ti 16GB at 8,192 tokens and uses most of the fast memory, roughly 10–16 tokens per second.
+- Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 16 GB on GeForce RTX 4060 Ti 16GB, and a 32 GB system RAM pool runs it slowly, roughly 7–10 tokens per second.
+- Yes. A GeForce RTX 4060 Ti 16GB runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 60–95 tokens per second.
+- Only with CPU offload. Qwen3 30B-A3B at Q4_K_M does not fit in the 16 GB on GeForce RTX 4060 Ti 16GB, and a 32 GB system RAM pool runs it slowly, roughly 26–37 tokens per second.
+- Only with CPU offload. Gemma 4 31B at Q4_K_M does not fit in the 16 GB on GeForce RTX 4060 Ti 16GB, and a 32 GB system RAM pool runs it slowly, roughly 3–4 tokens per second.
+- Yes. A GeForce RTX 4060 Ti 16GB runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 15–25 tokens per second.
+- Yes. A GeForce RTX 4060 Ti 16GB runs Qwen3 14B at Q4_K_M with room left at 8,192 tokens, roughly 15–26 tokens per second.
+- Only with CPU offload. Qwen3 32B at Q4_K_M does not fit in the 16 GB on GeForce RTX 4060 Ti 16GB, and a 32 GB system RAM pool runs it slowly, roughly 2–3 tokens per second.
+- Tight. Qwen3 14B at Q4_K_M loads on GeForce RTX 4070 at 8,192 tokens and uses most of the fast memory, roughly 27–45 tokens per second.
+- Only with CPU offload. gpt-oss-20b at MXFP4 does not fit in the 12 GB on GeForce RTX 4070, and a 32 GB system RAM pool runs it slowly, roughly 105–153 tokens per second.
+- Tight. Phi-4 at Q4_K_M loads on GeForce RTX 4070 at 8,192 tokens and uses most of the fast memory, roughly 26–45 tokens per second.
+- Only with CPU offload. Mistral Small 3.2 24B Instruct at Q4_K_M does not fit in the 12 GB on GeForce RTX 4070, and a 32 GB system RAM pool runs it slowly, roughly 3–5 tokens per second.
+- Yes. A GeForce RTX 4070 runs Gemma 4 12B at Q4_K_M with room left at 8,192 tokens, roughly 37–57 tokens per second.
+- Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 12 GB on GeForce RTX 4070, and a 32 GB system RAM pool runs it slowly, roughly 2–4 tokens per second.
+- Yes. A GeForce RTX 4070 runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 44–80 tokens per second.
+- Yes. A GeForce RTX 4070 runs Llama 3.1 8B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 46–82 tokens per second.
+- Yes. A GeForce RTX 4070 runs Gemma 4 E4B at Q4_K_M with room left at 8,192 tokens, roughly 53–81 tokens per second.
+- Tight. Mistral Small 3.2 24B Instruct at Q4_K_M loads on GeForce RTX 4070 Ti Super at 8,192 tokens and uses most of the fast memory, roughly 24–38 tokens per second.
+- Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 16 GB on GeForce RTX 4070 Ti Super, and a 32 GB system RAM pool runs it slowly, roughly 11–16 tokens per second.
+- Yes. A GeForce RTX 4070 Ti Super runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 141–222 tokens per second.
+- Only with CPU offload. Qwen3 30B-A3B at Q4_K_M does not fit in the 16 GB on GeForce RTX 4070 Ti Super, and a 32 GB system RAM pool runs it slowly, roughly 33–49 tokens per second.
+- Only with CPU offload. Gemma 4 31B at Q4_K_M does not fit in the 16 GB on GeForce RTX 4070 Ti Super, and a 32 GB system RAM pool runs it slowly, roughly 3–5 tokens per second.
+- Yes. A GeForce RTX 4070 Ti Super runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 34–59 tokens per second.
+- Yes. A GeForce RTX 4070 Ti Super runs Qwen3 14B at Q4_K_M with room left at 8,192 tokens, roughly 36–60 tokens per second.
+- Only with CPU offload. Qwen3 32B at Q4_K_M does not fit in the 16 GB on GeForce RTX 4070 Ti Super, and a 32 GB system RAM pool runs it slowly, roughly 2–3 tokens per second.
+- Only with CPU offload. Llama 3.3 70B Instruct at Q4_K_M does not fit in the 24 GB on GeForce RTX 4090, and a 32 GB system RAM pool runs it slowly, roughly 1 token per second.
+- Tight. Qwen3 32B at Q4_K_M loads on GeForce RTX 4090 at 8,192 tokens and uses most of the fast memory, roughly 25–41 tokens per second.
+- Tight. Qwen3.6 35B-A3B at UD-Q4_K_M loads on GeForce RTX 4090 at 8,192 tokens and uses most of the fast memory, roughly 233–376 tokens per second.
+- Yes. A GeForce RTX 4090 runs Gemma 4 31B at Q4_K_M with room left at 8,192 tokens, roughly 28–44 tokens per second.
+- Yes. A GeForce RTX 4090 runs Qwen3 30B-A3B at Q4_K_M with room left at 8,192 tokens, roughly 195–397 tokens per second.
+- Yes. A GeForce RTX 4090 runs Qwen3.8 27B at UD-Q4_K_M with room left at 8,192 tokens, roughly 32–49 tokens per second.
+- Yes. A GeForce RTX 4090 runs Mistral Small 3.2 24B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 35–56 tokens per second.
+- Yes. A GeForce RTX 4090 runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 211–333 tokens per second.
+- Yes. A GeForce RTX 4090 runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 52–89 tokens per second.
+- Only with CPU offload. gpt-oss-20b at MXFP4 does not fit in the 12 GB on GeForce RTX 5070, and a 32 GB system RAM pool runs it slowly, roughly 140–204 tokens per second.
+- Tight. Phi-4 at Q4_K_M loads on GeForce RTX 5070 at 8,192 tokens and uses most of the fast memory, roughly 34–59 tokens per second.
+- Tight. Qwen3 14B at Q4_K_M loads on GeForce RTX 5070 at 8,192 tokens and uses most of the fast memory, roughly 36–60 tokens per second.
+- Only with CPU offload. Mistral Small 3.2 24B Instruct at Q4_K_M does not fit in the 12 GB on GeForce RTX 5070, and a 32 GB system RAM pool runs it slowly, roughly 6–9 tokens per second.
+- Yes. A GeForce RTX 5070 runs Gemma 4 12B at Q4_K_M with room left at 8,192 tokens, roughly 49–75 tokens per second.
+- Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 12 GB on GeForce RTX 5070, and a 32 GB system RAM pool runs it slowly, roughly 5–7 tokens per second.
+- Yes. A GeForce RTX 5070 runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 59–107 tokens per second.
+- Yes. A GeForce RTX 5070 runs Llama 3.1 8B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 62–109 tokens per second.
+- Tight. Mistral Small 3.2 24B Instruct at Q4_K_M loads on GeForce RTX 5080 at 8,192 tokens and uses most of the fast memory, roughly 34–54 tokens per second.
+- Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 16 GB on GeForce RTX 5080, and a 32 GB system RAM pool runs it slowly, roughly 19–27 tokens per second.
+- Yes. A GeForce RTX 5080 runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 201–317 tokens per second.
+- Only with CPU offload. Qwen3 30B-A3B at Q4_K_M does not fit in the 16 GB on GeForce RTX 5080, and a 32 GB system RAM pool runs it slowly, roughly 61–89 tokens per second.
+- Only with CPU offload. Gemma 4 31B at Q4_K_M does not fit in the 16 GB on GeForce RTX 5080, and a 32 GB system RAM pool runs it slowly, roughly 6–9 tokens per second.
+- Yes. A GeForce RTX 5080 runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 49–85 tokens per second.
+- Yes. A GeForce RTX 5080 runs Qwen3 14B at Q4_K_M with room left at 8,192 tokens, roughly 51–85 tokens per second.
+- Only with CPU offload. Qwen3 32B at Q4_K_M does not fit in the 16 GB on GeForce RTX 5080, and a 32 GB system RAM pool runs it slowly, roughly 4–6 tokens per second.
+- Yes. A GeForce RTX 5090 runs Qwen3.6 35B-A3B at UD-Q4_K_M with room left at 8,192 tokens, roughly 414–668 tokens per second.
+- Yes. A GeForce RTX 5090 runs Qwen3 32B at Q4_K_M with room left at 8,192 tokens, roughly 45–73 tokens per second.
+- Yes. A GeForce RTX 5090 runs Gemma 4 31B at Q4_K_M with room left at 8,192 tokens, roughly 50–78 tokens per second.
+- Yes. A GeForce RTX 5090 runs Qwen3 30B-A3B at Q4_K_M with room left at 8,192 tokens, roughly 347–706 tokens per second.
+- Only with CPU offload. Llama 3.3 70B Instruct at Q4_K_M does not fit in the 32 GB on GeForce RTX 5090, and a 32 GB system RAM pool runs it slowly, roughly 2–3 tokens per second.
+- Yes. A GeForce RTX 5090 runs Qwen3.8 27B at UD-Q4_K_M with room left at 8,192 tokens, roughly 57–87 tokens per second.
+- Yes. A GeForce RTX 5090 runs Mistral Small 3.2 24B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 63–100 tokens per second.
+- Tight. Mistral Small 3.2 24B Instruct at Q4_K_M loads on Radeon RX 7800 XT at 8,192 tokens and uses most of the fast memory, roughly 22–35 tokens per second.
+- Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 16 GB on Radeon RX 7800 XT, and a 32 GB system RAM pool runs it slowly, roughly 11–16 tokens per second.
+- Yes. A Radeon RX 7800 XT runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 131–206 tokens per second.
+- Only with CPU offload. Qwen3 30B-A3B at Q4_K_M does not fit in the 16 GB on Radeon RX 7800 XT, and a 32 GB system RAM pool runs it slowly, roughly 33–48 tokens per second.
+- Only with CPU offload. Gemma 4 31B at Q4_K_M does not fit in the 16 GB on Radeon RX 7800 XT, and a 32 GB system RAM pool runs it slowly, roughly 3–5 tokens per second.
+- Yes. A Radeon RX 7800 XT runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 32–55 tokens per second.
+- Yes. A Radeon RX 7800 XT runs Qwen3 14B at Q4_K_M with room left at 8,192 tokens, roughly 33–55 tokens per second.
+- Only with CPU offload. Qwen3 32B at Q4_K_M does not fit in the 16 GB on Radeon RX 7800 XT, and a 32 GB system RAM pool runs it slowly, roughly 2–3 tokens per second.
+- Tight. Qwen3.6 35B-A3B at UD-Q4_K_M loads on Radeon RX 7900 XTX at 8,192 tokens and uses most of the fast memory, roughly 222–358 tokens per second.
+- Tight. Qwen3 32B at Q4_K_M loads on Radeon RX 7900 XTX at 8,192 tokens and uses most of the fast memory, roughly 24–39 tokens per second.
+- Yes. A Radeon RX 7900 XTX runs Gemma 4 31B at Q4_K_M with room left at 8,192 tokens, roughly 27–42 tokens per second.
+- Yes. A Radeon RX 7900 XTX runs Qwen3 30B-A3B at Q4_K_M with room left at 8,192 tokens, roughly 186–378 tokens per second.
+- Yes. A Radeon RX 7900 XTX runs Qwen3.8 27B at UD-Q4_K_M with room left at 8,192 tokens, roughly 31–47 tokens per second.
+- Yes. A Radeon RX 7900 XTX runs Mistral Small 3.2 24B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 34–54 tokens per second.
+- Yes. A Radeon RX 7900 XTX runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 201–317 tokens per second.
+- Yes. A Radeon RX 7900 XTX runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 49–85 tokens per second.
+- Tight. Mistral Small 3.2 24B Instruct at Q4_K_M loads on Radeon RX 9070 XT at 8,192 tokens and uses most of the fast memory, roughly 22–36 tokens per second.
+- Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 16 GB on Radeon RX 9070 XT, and a 32 GB system RAM pool runs it slowly, roughly 15–21 tokens per second.
+- Yes. A Radeon RX 9070 XT runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 134–211 tokens per second.
+- Only with CPU offload. Qwen3 30B-A3B at Q4_K_M does not fit in the 16 GB on Radeon RX 9070 XT, and a 32 GB system RAM pool runs it slowly, roughly 53–78 tokens per second.
+- Only with CPU offload. Gemma 4 31B at Q4_K_M does not fit in the 16 GB on Radeon RX 9070 XT, and a 32 GB system RAM pool runs it slowly, roughly 6–8 tokens per second.
+- Yes. A Radeon RX 9070 XT runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 33–57 tokens per second.
+- Yes. A Radeon RX 9070 XT runs Qwen3 14B at Q4_K_M with room left at 8,192 tokens, roughly 34–57 tokens per second.
+- Only with CPU offload. Qwen3 32B at Q4_K_M does not fit in the 16 GB on Radeon RX 9070 XT, and a 32 GB system RAM pool runs it slowly, roughly 4–6 tokens per second.
+- Only with CPU offload. gpt-oss-20b at MXFP4 does not fit in the 12 GB on Intel Arc B580, and a 32 GB system RAM pool runs it slowly, roughly 95–138 tokens per second.
+- Tight. Phi-4 at Q4_K_M loads on Intel Arc B580 at 8,192 tokens and uses most of the fast memory, roughly 23–40 tokens per second.
+- Tight. Qwen3 14B at Q4_K_M loads on Intel Arc B580 at 8,192 tokens and uses most of the fast memory, roughly 24–41 tokens per second.
+- Only with CPU offload. Mistral Small 3.2 24B Instruct at Q4_K_M does not fit in the 12 GB on Intel Arc B580, and a 32 GB system RAM pool runs it slowly, roughly 3–5 tokens per second.
+- Yes. A Intel Arc B580 runs Gemma 4 12B at Q4_K_M with room left at 8,192 tokens, roughly 33–51 tokens per second.
+- Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 12 GB on Intel Arc B580, and a 32 GB system RAM pool runs it slowly, roughly 2–3 tokens per second.
+- Yes. A Intel Arc B580 runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 40–73 tokens per second.
+- Yes. A Intel Arc B580 runs Llama 3.1 8B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 42–74 tokens per second.
+- Yes. Steam Deck OLED runs Llama 3.2 3B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 19–41 tokens per second.
+- Yes. Steam Deck OLED runs Llama 3.1 8B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 9–17 tokens per second.
+- Tight. Phi-4 at Q4_K_M loads on Steam Deck OLED at 8,192 tokens and uses most of the fast memory, roughly 5–9 tokens per second.
+- Tight. Qwen3 14B at Q4_K_M loads on Steam Deck OLED at 8,192 tokens and uses most of the fast memory, roughly 5–9 tokens per second.
+- Yes. Steam Deck OLED runs Gemma 4 12B at Q4_K_M with room left at 8,192 tokens, roughly 7–12 tokens per second.
+- Yes. Steam Deck OLED runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 9–16 tokens per second.
+- Yes. Steam Deck OLED runs Gemma 4 E4B at Q4_K_M with room left at 8,192 tokens, roughly 11–16 tokens per second.
+- No. Qwen3 30B-A3B at Q4_K_M does not fit on Steam Deck OLED at 8,192 tokens, even with 16 GB of system RAM.
+- No. Gemma 4 31B at Q4_K_M does not fit on Steam Deck OLED at 8,192 tokens, even with 16 GB of system RAM.
+- No. Qwen3 32B at Q4_K_M does not fit on Steam Deck OLED at 8,192 tokens, even with 16 GB of system RAM.
+- Tight. Qwen3.8 27B at UD-Q4_K_M loads on ROG Ally X at 8,192 tokens and uses most of the fast memory, roughly 4–6 tokens per second.
+- Tight. Mistral Small 3.2 24B Instruct at Q4_K_M loads on ROG Ally X at 8,192 tokens and uses most of the fast memory, roughly 4–7 tokens per second.
+- Yes. ROG Ally X runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 25–40 tokens per second.
+- Yes. ROG Ally X runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 6–11 tokens per second.
+- Yes. ROG Ally X runs Qwen3 14B at Q4_K_M with room left at 8,192 tokens, roughly 6–11 tokens per second.
+- Yes. Apple M4, 16 GB runs Gemma 4 12B at Q4_K_M with room left at 8,192 tokens, roughly 9–13 tokens per second.
+- Tight. Phi-4 at Q4_K_M loads on Apple M4, 16 GB at 8,192 tokens and uses most of the fast memory, roughly 6–11 tokens per second.
+- Tight. Qwen3 14B at Q4_K_M loads on Apple M4, 16 GB at 8,192 tokens and uses most of the fast memory, roughly 6–11 tokens per second.
+- Yes. Apple M4, 16 GB runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 11–19 tokens per second.
+- Yes. Apple M4, 16 GB runs Llama 3.1 8B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 11–20 tokens per second.
+- Yes. Apple M4, 16 GB runs Gemma 4 E4B at Q4_K_M with room left at 8,192 tokens, roughly 13–19 tokens per second.
+- No. Qwen3 30B-A3B at Q4_K_M does not fit on Apple M4, 16 GB at 8,192 tokens, even with 16 GB of system RAM.
+- No. Gemma 4 31B at Q4_K_M does not fit on Apple M4, 16 GB at 8,192 tokens, even with 16 GB of system RAM.
+- No. Qwen3 32B at Q4_K_M does not fit on Apple M4, 16 GB at 8,192 tokens, even with 16 GB of system RAM.
+- Yes. Apple M4 Pro, 48 GB runs Qwen3.6 35B-A3B at UD-Q4_K_M with room left at 8,192 tokens, roughly 63–102 tokens per second.
+- Yes. Apple M4 Pro, 48 GB runs Qwen3 32B at Q4_K_M with room left at 8,192 tokens, roughly 7–11 tokens per second.
+- Yes. Apple M4 Pro, 48 GB runs Gemma 4 31B at Q4_K_M with room left at 8,192 tokens, roughly 8–12 tokens per second.
+- Yes. Apple M4 Pro, 48 GB runs Qwen3 30B-A3B at Q4_K_M with room left at 8,192 tokens, roughly 53–108 tokens per second.
+- Yes. Apple M4 Pro, 48 GB runs Qwen3.8 27B at UD-Q4_K_M with room left at 8,192 tokens, roughly 9–13 tokens per second.
+- Yes. Apple M1, 8 GB runs Llama 3.2 3B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 13–27 tokens per second.
+- No. Qwen3 30B-A3B at Q4_K_M does not fit on Apple M1, 8 GB at 8,192 tokens, even with 8 GB of system RAM.
+- No. Gemma 4 31B at Q4_K_M does not fit on Apple M1, 8 GB at 8,192 tokens, even with 8 GB of system RAM.
+- No. Qwen3 32B at Q4_K_M does not fit on Apple M1, 8 GB at 8,192 tokens, even with 8 GB of system RAM.
+- No. Qwen3.6 35B-A3B at UD-Q4_K_M does not fit on Apple M1, 8 GB at 8,192 tokens, even with 8 GB of system RAM.
+- No. Llama 3.3 70B Instruct at Q4_K_M does not fit on Apple M1, 8 GB at 8,192 tokens, even with 8 GB of system RAM.
+- No. gpt-oss-120b at MXFP4 does not fit on GeForce RTX 5090 at 8,192 tokens, even with 32 GB of system RAM.
+- Yes. Apple M1, 8 GB runs Llama 3.2 1B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 35–67 tokens per second.
+
+Formula: total = (GGUF bytes + KV bytes + 0.5 GiB) × 1.05.
+Fits at or below 85% of fast memory. Tight still fits. Offload needs system RAM. No does not fit.
+Data license: CC-BY 4.0. Amazon affiliate links (labeled; as an Amazon Associate we earn from qualifying purchases).

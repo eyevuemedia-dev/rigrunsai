@@ -1,0 +1,10 @@
+RigRunsAI dataset
+Copyright the RigRunsAI contributors.
+
+This dataset — models.json and hardware.json — is licensed under
+Creative Commons Attribution 4.0 International (CC-BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+
+Attribute RigRunsAI and keep the source URLs stored on each record.
+Model weights are not included. Architecture numbers and file sizes are facts
+cited from the URLs in the JSON.
