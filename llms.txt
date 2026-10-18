@@ -3,7 +3,7 @@
 
 ## Start here
 - [Home calculator](https://rigrunsai.com/): manual GPU, VRAM, RAM, and Mac entry
-- [Methodology](https://rigrunsai.com/methodology): the formula
+- [Methodology](https://rigrunsai.com/methodology/): the formula
 - [models.json](https://rigrunsai.com/data/models.json): CC-BY 4.0
 - [hardware.json](https://rigrunsai.com/data/hardware.json): CC-BY 4.0
 
@@ -16,248 +16,248 @@
 - [Qwen2.5 14B Instruct](https://rigrunsai.com/model/qwen2.5-14b): Q4_K_M, 8.37 GiB, context 32768
 - [Qwen2.5 32B Instruct](https://rigrunsai.com/model/qwen2.5-32b): Q4_K_M, 18.5 GiB, context 32768
 - [Qwen2.5 72B Instruct](https://rigrunsai.com/model/qwen2.5-72b): Q4_K_M, 44.2 GiB, context 32768
-- [Qwen3 8B](https://rigrunsai.com/model/qwen3-8b): Q4_K_M, 4.68 GiB, context 40960
-- [Qwen3 14B](https://rigrunsai.com/model/qwen3-14b): Q4_K_M, 8.38 GiB, context 40960
-- [Qwen3 32B](https://rigrunsai.com/model/qwen3-32b): Q4_K_M, 18.4 GiB, context 40960
-- [Qwen3 30B-A3B](https://rigrunsai.com/model/qwen3-30b-a3b): Q4_K_M, 17.3 GiB, context 40960
+- [Qwen3 8B](https://rigrunsai.com/model/qwen3-8b/): Q4_K_M, 4.68 GiB, context 40960
+- [Qwen3 14B](https://rigrunsai.com/model/qwen3-14b/): Q4_K_M, 8.38 GiB, context 40960
+- [Qwen3 32B](https://rigrunsai.com/model/qwen3-32b/): Q4_K_M, 18.4 GiB, context 40960
+- [Qwen3 30B-A3B](https://rigrunsai.com/model/qwen3-30b-a3b/): Q4_K_M, 17.3 GiB, context 40960
 - [Qwen3.5 9B](https://rigrunsai.com/model/qwen3.5-9b): Q4_K_M, 5.29 GiB, context 262144
 - [Qwen3.8 27B](https://rigrunsai.com/model/qwen3.8-27b): UD-Q4_K_M, 15.3 GiB, context 262144
 - [Qwen3.6 35B-A3B](https://rigrunsai.com/model/qwen3.6-35b-a3b): UD-Q4_K_M, 20.6 GiB, context 262144
-- [Gemma 3 4B Instruct](https://rigrunsai.com/model/gemma-3-4b): Q4_K_M, 2.32 GiB, context 131072
-- [Gemma 3 12B Instruct](https://rigrunsai.com/model/gemma-3-12b): Q4_K_M, 6.80 GiB, context 131072
-- [Gemma 3 27B Instruct](https://rigrunsai.com/model/gemma-3-27b): Q4_K_M, 15.4 GiB, context 131072
-- [Gemma 4 E2B](https://rigrunsai.com/model/gemma-4-e2b): Q4_K_M, 2.89 GiB, context 131072
-- [Gemma 4 E4B](https://rigrunsai.com/model/gemma-4-e4b): Q4_K_M, 4.64 GiB, context 131072
-- [Gemma 4 12B](https://rigrunsai.com/model/gemma-4-12b): Q4_K_M, 6.63 GiB, context 262144
-- [Gemma 4 26B-A4B](https://rigrunsai.com/model/gemma-4-26b-a4b): UD-Q4_K_M, 15.8 GiB, context 262144
-- [Gemma 4 31B](https://rigrunsai.com/model/gemma-4-31b): Q4_K_M, 17.1 GiB, context 262144
-- [gpt-oss-20b](https://rigrunsai.com/model/gpt-oss-20b): MXFP4, 11.3 GiB, context 131072
-- [gpt-oss-120b](https://rigrunsai.com/model/gpt-oss-120b): MXFP4, 59.0 GiB, context 131072
-- [Phi-4](https://rigrunsai.com/model/phi-4): Q4_K_M, 8.43 GiB, context 16384
-- [Phi-4-mini Instruct](https://rigrunsai.com/model/phi-4-mini): Q4_K_M, 2.32 GiB, context 131072
-- [Mistral Nemo 12B Instruct](https://rigrunsai.com/model/mistral-nemo-12b): Q4_K_M, 6.96 GiB, context 131072
+- [Gemma 3 4B Instruct](https://rigrunsai.com/model/gemma-3-4b/): Q4_K_M, 2.32 GiB, context 131072
+- [Gemma 3 12B Instruct](https://rigrunsai.com/model/gemma-3-12b/): Q4_K_M, 6.80 GiB, context 131072
+- [Gemma 3 27B Instruct](https://rigrunsai.com/model/gemma-3-27b/): Q4_K_M, 15.4 GiB, context 131072
+- [Gemma 4 E2B](https://rigrunsai.com/model/gemma-4-e2b/): Q4_K_M, 2.89 GiB, context 131072
+- [Gemma 4 E4B](https://rigrunsai.com/model/gemma-4-e4b/): Q4_K_M, 4.64 GiB, context 131072
+- [Gemma 4 12B](https://rigrunsai.com/model/gemma-4-12b/): Q4_K_M, 6.63 GiB, context 262144
+- [Gemma 4 26B-A4B](https://rigrunsai.com/model/gemma-4-26b-a4b/): UD-Q4_K_M, 15.8 GiB, context 262144
+- [Gemma 4 31B](https://rigrunsai.com/model/gemma-4-31b/): Q4_K_M, 17.1 GiB, context 262144
+- [gpt-oss-20b](https://rigrunsai.com/model/gpt-oss-20b/): MXFP4, 11.3 GiB, context 131072
+- [gpt-oss-120b](https://rigrunsai.com/model/gpt-oss-120b/): MXFP4, 59.0 GiB, context 131072
+- [Phi-4](https://rigrunsai.com/model/phi-4/): Q4_K_M, 8.43 GiB, context 16384
+- [Phi-4-mini Instruct](https://rigrunsai.com/model/phi-4-mini/): Q4_K_M, 2.32 GiB, context 131072
+- [Mistral Nemo 12B Instruct](https://rigrunsai.com/model/mistral-nemo-12b/): Q4_K_M, 6.96 GiB, context 131072
 - [Mistral Small 3.2 24B Instruct](https://rigrunsai.com/model/mistral-small-3.2-24b): Q4_K_M, 13.3 GiB, context 131072
-- [Devstral Small 2 24B Instruct](https://rigrunsai.com/model/devstral-small-2-24b): Q4_K_M, 13.3 GiB, context 393216
-- [DeepSeek-R1 Distill Qwen 14B](https://rigrunsai.com/model/deepseek-r1-distill-14b): Q4_K_M, 8.37 GiB, context 131072
-- [DeepSeek-R1 Distill Qwen 32B](https://rigrunsai.com/model/deepseek-r1-distill-32b): Q4_K_M, 18.5 GiB, context 131072
-- [SmolLM3 3B](https://rigrunsai.com/model/smollm3-3b): Q4_K_M, 1.78 GiB, context 65536
+- [Devstral Small 2 24B Instruct](https://rigrunsai.com/model/devstral-small-2-24b/): Q4_K_M, 13.3 GiB, context 393216
+- [DeepSeek-R1 Distill Qwen 14B](https://rigrunsai.com/model/deepseek-r1-distill-14b/): Q4_K_M, 8.37 GiB, context 131072
+- [DeepSeek-R1 Distill Qwen 32B](https://rigrunsai.com/model/deepseek-r1-distill-32b/): Q4_K_M, 18.5 GiB, context 131072
+- [SmolLM3 3B](https://rigrunsai.com/model/smollm3-3b/): Q4_K_M, 1.78 GiB, context 65536
 
 ## Hardware
-- [GeForce RTX 3060 12GB](https://rigrunsai.com/gpu/rtx-3060-12gb): 12 GB GDDR, 360 GB/s
-- [GeForce RTX 3060 Ti](https://rigrunsai.com/gpu/rtx-3060-ti): 8 GB GDDR, 448 GB/s
-- [GeForce RTX 3070](https://rigrunsai.com/gpu/rtx-3070): 8 GB GDDR, 448 GB/s
-- [GeForce RTX 3080 10GB](https://rigrunsai.com/gpu/rtx-3080-10gb): 10 GB GDDR, 760 GB/s
-- [GeForce RTX 3090](https://rigrunsai.com/gpu/rtx-3090): 24 GB GDDR, 936 GB/s
-- [GeForce RTX 4060](https://rigrunsai.com/gpu/rtx-4060): 8 GB GDDR, 272 GB/s
-- [GeForce RTX 4060 Ti 8GB](https://rigrunsai.com/gpu/rtx-4060-ti-8gb): 8 GB GDDR, 288 GB/s
-- [GeForce RTX 4060 Ti 16GB](https://rigrunsai.com/gpu/rtx-4060-ti-16gb): 16 GB GDDR, 288 GB/s
-- [GeForce RTX 4070](https://rigrunsai.com/gpu/rtx-4070): 12 GB GDDR, 504 GB/s
-- [GeForce RTX 4070 Super](https://rigrunsai.com/gpu/rtx-4070-super): 12 GB GDDR, 504 GB/s
-- [GeForce RTX 4070 Ti](https://rigrunsai.com/gpu/rtx-4070-ti): 12 GB GDDR, 504 GB/s
-- [GeForce RTX 4070 Ti Super](https://rigrunsai.com/gpu/rtx-4070-ti-super): 16 GB GDDR, 672 GB/s
-- [GeForce RTX 4080](https://rigrunsai.com/gpu/rtx-4080): 16 GB GDDR, 717 GB/s
-- [GeForce RTX 4080 Super](https://rigrunsai.com/gpu/rtx-4080-super): 16 GB GDDR, 736 GB/s
-- [GeForce RTX 4090](https://rigrunsai.com/gpu/rtx-4090): 24 GB GDDR, 1008 GB/s
-- [GeForce RTX 5060](https://rigrunsai.com/gpu/rtx-5060): 8 GB GDDR, 448 GB/s
-- [GeForce RTX 5060 Ti 8GB](https://rigrunsai.com/gpu/rtx-5060-ti-8gb): 8 GB GDDR, 448 GB/s
-- [GeForce RTX 5060 Ti 16GB](https://rigrunsai.com/gpu/rtx-5060-ti-16gb): 16 GB GDDR, 448 GB/s
-- [GeForce RTX 5070](https://rigrunsai.com/gpu/rtx-5070): 12 GB GDDR, 672 GB/s
-- [GeForce RTX 5070 Ti](https://rigrunsai.com/gpu/rtx-5070-ti): 16 GB GDDR, 896 GB/s
-- [GeForce RTX 5080](https://rigrunsai.com/gpu/rtx-5080): 16 GB GDDR, 960 GB/s
-- [GeForce RTX 5090](https://rigrunsai.com/gpu/rtx-5090): 32 GB GDDR, 1792 GB/s
-- [Radeon RX 6600](https://rigrunsai.com/gpu/rx-6600): 8 GB GDDR6, 224 GB/s
-- [Radeon RX 6700 XT](https://rigrunsai.com/gpu/rx-6700-xt): 12 GB GDDR6, 384 GB/s
-- [Radeon RX 6800 XT](https://rigrunsai.com/gpu/rx-6800-xt): 16 GB GDDR6, 512 GB/s
-- [Radeon RX 7600](https://rigrunsai.com/gpu/rx-7600): 8 GB GDDR6, 288 GB/s
-- [Radeon RX 7700 XT](https://rigrunsai.com/gpu/rx-7700-xt): 12 GB GDDR6, 432 GB/s
-- [Radeon RX 7800 XT](https://rigrunsai.com/gpu/rx-7800-xt): 16 GB GDDR6, 624 GB/s
-- [Radeon RX 7900 XT](https://rigrunsai.com/gpu/rx-7900-xt): 20 GB GDDR6, 800 GB/s
-- [Radeon RX 7900 XTX](https://rigrunsai.com/gpu/rx-7900-xtx): 24 GB GDDR6, 960 GB/s
-- [Radeon RX 9060 XT 16GB](https://rigrunsai.com/gpu/rx-9060-xt-16gb): 16 GB GDDR6, 320 GB/s
-- [Radeon RX 9070 XT](https://rigrunsai.com/gpu/rx-9070-xt): 16 GB GDDR6, 640 GB/s
-- [Intel Arc A770 16GB](https://rigrunsai.com/gpu/arc-a770-16gb): 16 GB GDDR6, 512 GB/s
-- [Intel Arc B580](https://rigrunsai.com/gpu/arc-b580): 12 GB GDDR6, 456 GB/s
-- [Steam Deck LCD](https://rigrunsai.com/gpu/steam-deck-lcd): 16 GB LPDDR5-5500, 88 GB/s
-- [Steam Deck OLED](https://rigrunsai.com/gpu/steam-deck-oled): 16 GB LPDDR5-6400, 102.4 GB/s
-- [ROG Ally](https://rigrunsai.com/gpu/rog-ally): 16 GB LPDDR5-6400, 102.4 GB/s
-- [ROG Ally X](https://rigrunsai.com/gpu/rog-ally-x): 24 GB LPDDR5X-7500, 120 GB/s
-- [Legion Go](https://rigrunsai.com/gpu/legion-go): 16 GB LPDDR5X-7500, 120 GB/s
-- [Apple M1, 8 GB](https://rigrunsai.com/mac/m1-8gb): 8 GB unified, 68 GB/s
-- [Apple M1, 16 GB](https://rigrunsai.com/mac/m1-16gb): 16 GB unified, 68 GB/s
-- [Apple M1 Pro, 16 GB](https://rigrunsai.com/mac/m1-pro-16gb): 16 GB unified, 200 GB/s
-- [Apple M1 Pro, 32 GB](https://rigrunsai.com/mac/m1-pro-32gb): 32 GB unified, 200 GB/s
-- [Apple M1 Max, 32 GB](https://rigrunsai.com/mac/m1-max-32gb): 32 GB unified, 400 GB/s
-- [Apple M1 Max, 64 GB](https://rigrunsai.com/mac/m1-max-64gb): 64 GB unified, 400 GB/s
-- [Apple M2, 8 GB](https://rigrunsai.com/mac/m2-8gb): 8 GB unified, 100 GB/s
-- [Apple M2, 16 GB](https://rigrunsai.com/mac/m2-16gb): 16 GB unified, 100 GB/s
-- [Apple M2, 24 GB](https://rigrunsai.com/mac/m2-24gb): 24 GB unified, 100 GB/s
-- [Apple M2 Pro, 16 GB](https://rigrunsai.com/mac/m2-pro-16gb): 16 GB unified, 200 GB/s
-- [Apple M2 Pro, 32 GB](https://rigrunsai.com/mac/m2-pro-32gb): 32 GB unified, 200 GB/s
-- [Apple M2 Max, 32 GB](https://rigrunsai.com/mac/m2-max-32gb): 32 GB unified, 400 GB/s
-- [Apple M2 Max, 64 GB](https://rigrunsai.com/mac/m2-max-64gb): 64 GB unified, 400 GB/s
-- [Apple M2 Max, 96 GB](https://rigrunsai.com/mac/m2-max-96gb): 96 GB unified, 400 GB/s
-- [Apple M3, 8 GB](https://rigrunsai.com/mac/m3-8gb): 8 GB unified, 100 GB/s
-- [Apple M3, 16 GB](https://rigrunsai.com/mac/m3-16gb): 16 GB unified, 100 GB/s
-- [Apple M3, 24 GB](https://rigrunsai.com/mac/m3-24gb): 24 GB unified, 100 GB/s
-- [Apple M3 Pro, 18 GB](https://rigrunsai.com/mac/m3-pro-18gb): 18 GB unified, 150 GB/s
-- [Apple M3 Pro, 36 GB](https://rigrunsai.com/mac/m3-pro-36gb): 36 GB unified, 150 GB/s
-- [Apple M3 Max 16-core, 48 GB](https://rigrunsai.com/mac/m3-max-48gb): 48 GB unified, 400 GB/s
-- [Apple M3 Max 16-core, 64 GB](https://rigrunsai.com/mac/m3-max-64gb): 64 GB unified, 400 GB/s
-- [Apple M3 Max 16-core, 128 GB](https://rigrunsai.com/mac/m3-max-128gb): 128 GB unified, 400 GB/s
-- [Apple M4, 16 GB](https://rigrunsai.com/mac/m4-16gb): 16 GB unified, 120 GB/s
-- [Apple M4, 24 GB](https://rigrunsai.com/mac/m4-24gb): 24 GB unified, 120 GB/s
-- [Apple M4, 32 GB](https://rigrunsai.com/mac/m4-32gb): 32 GB unified, 120 GB/s
-- [Apple M4 Pro, 24 GB](https://rigrunsai.com/mac/m4-pro-24gb): 24 GB unified, 273 GB/s
-- [Apple M4 Pro, 48 GB](https://rigrunsai.com/mac/m4-pro-48gb): 48 GB unified, 273 GB/s
-- [Apple M4 Pro, 64 GB](https://rigrunsai.com/mac/m4-pro-64gb): 64 GB unified, 273 GB/s
-- [Apple M4 Max 14-core, 36 GB](https://rigrunsai.com/mac/m4-max-36gb): 36 GB unified, 410 GB/s
-- [Apple M4 Max 16-core, 48 GB](https://rigrunsai.com/mac/m4-max-48gb): 48 GB unified, 546 GB/s
-- [Apple M4 Max 16-core, 64 GB](https://rigrunsai.com/mac/m4-max-64gb): 64 GB unified, 546 GB/s
-- [Apple M4 Max 16-core, 128 GB](https://rigrunsai.com/mac/m4-max-128gb): 128 GB unified, 546 GB/s
+- [GeForce RTX 3060 12GB](https://rigrunsai.com/gpu/rtx-3060-12gb/): 12 GB GDDR, 360 GB/s
+- [GeForce RTX 3060 Ti](https://rigrunsai.com/gpu/rtx-3060-ti/): 8 GB GDDR, 448 GB/s
+- [GeForce RTX 3070](https://rigrunsai.com/gpu/rtx-3070/): 8 GB GDDR, 448 GB/s
+- [GeForce RTX 3080 10GB](https://rigrunsai.com/gpu/rtx-3080-10gb/): 10 GB GDDR, 760 GB/s
+- [GeForce RTX 3090](https://rigrunsai.com/gpu/rtx-3090/): 24 GB GDDR, 936 GB/s
+- [GeForce RTX 4060](https://rigrunsai.com/gpu/rtx-4060/): 8 GB GDDR, 272 GB/s
+- [GeForce RTX 4060 Ti 8GB](https://rigrunsai.com/gpu/rtx-4060-ti-8gb/): 8 GB GDDR, 288 GB/s
+- [GeForce RTX 4060 Ti 16GB](https://rigrunsai.com/gpu/rtx-4060-ti-16gb/): 16 GB GDDR, 288 GB/s
+- [GeForce RTX 4070](https://rigrunsai.com/gpu/rtx-4070/): 12 GB GDDR, 504 GB/s
+- [GeForce RTX 4070 Super](https://rigrunsai.com/gpu/rtx-4070-super/): 12 GB GDDR, 504 GB/s
+- [GeForce RTX 4070 Ti](https://rigrunsai.com/gpu/rtx-4070-ti/): 12 GB GDDR, 504 GB/s
+- [GeForce RTX 4070 Ti Super](https://rigrunsai.com/gpu/rtx-4070-ti-super/): 16 GB GDDR, 672 GB/s
+- [GeForce RTX 4080](https://rigrunsai.com/gpu/rtx-4080/): 16 GB GDDR, 717 GB/s
+- [GeForce RTX 4080 Super](https://rigrunsai.com/gpu/rtx-4080-super/): 16 GB GDDR, 736 GB/s
+- [GeForce RTX 4090](https://rigrunsai.com/gpu/rtx-4090/): 24 GB GDDR, 1008 GB/s
+- [GeForce RTX 5060](https://rigrunsai.com/gpu/rtx-5060/): 8 GB GDDR, 448 GB/s
+- [GeForce RTX 5060 Ti 8GB](https://rigrunsai.com/gpu/rtx-5060-ti-8gb/): 8 GB GDDR, 448 GB/s
+- [GeForce RTX 5060 Ti 16GB](https://rigrunsai.com/gpu/rtx-5060-ti-16gb/): 16 GB GDDR, 448 GB/s
+- [GeForce RTX 5070](https://rigrunsai.com/gpu/rtx-5070/): 12 GB GDDR, 672 GB/s
+- [GeForce RTX 5070 Ti](https://rigrunsai.com/gpu/rtx-5070-ti/): 16 GB GDDR, 896 GB/s
+- [GeForce RTX 5080](https://rigrunsai.com/gpu/rtx-5080/): 16 GB GDDR, 960 GB/s
+- [GeForce RTX 5090](https://rigrunsai.com/gpu/rtx-5090/): 32 GB GDDR, 1792 GB/s
+- [Radeon RX 6600](https://rigrunsai.com/gpu/rx-6600/): 8 GB GDDR6, 224 GB/s
+- [Radeon RX 6700 XT](https://rigrunsai.com/gpu/rx-6700-xt/): 12 GB GDDR6, 384 GB/s
+- [Radeon RX 6800 XT](https://rigrunsai.com/gpu/rx-6800-xt/): 16 GB GDDR6, 512 GB/s
+- [Radeon RX 7600](https://rigrunsai.com/gpu/rx-7600/): 8 GB GDDR6, 288 GB/s
+- [Radeon RX 7700 XT](https://rigrunsai.com/gpu/rx-7700-xt/): 12 GB GDDR6, 432 GB/s
+- [Radeon RX 7800 XT](https://rigrunsai.com/gpu/rx-7800-xt/): 16 GB GDDR6, 624 GB/s
+- [Radeon RX 7900 XT](https://rigrunsai.com/gpu/rx-7900-xt/): 20 GB GDDR6, 800 GB/s
+- [Radeon RX 7900 XTX](https://rigrunsai.com/gpu/rx-7900-xtx/): 24 GB GDDR6, 960 GB/s
+- [Radeon RX 9060 XT 16GB](https://rigrunsai.com/gpu/rx-9060-xt-16gb/): 16 GB GDDR6, 320 GB/s
+- [Radeon RX 9070 XT](https://rigrunsai.com/gpu/rx-9070-xt/): 16 GB GDDR6, 640 GB/s
+- [Intel Arc A770 16GB](https://rigrunsai.com/gpu/arc-a770-16gb/): 16 GB GDDR6, 512 GB/s
+- [Intel Arc B580](https://rigrunsai.com/gpu/arc-b580/): 12 GB GDDR6, 456 GB/s
+- [Steam Deck LCD](https://rigrunsai.com/gpu/steam-deck-lcd/): 16 GB LPDDR5-5500, 88 GB/s
+- [Steam Deck OLED](https://rigrunsai.com/gpu/steam-deck-oled/): 16 GB LPDDR5-6400, 102.4 GB/s
+- [ROG Ally](https://rigrunsai.com/gpu/rog-ally/): 16 GB LPDDR5-6400, 102.4 GB/s
+- [ROG Ally X](https://rigrunsai.com/gpu/rog-ally-x/): 24 GB LPDDR5X-7500, 120 GB/s
+- [Legion Go](https://rigrunsai.com/gpu/legion-go/): 16 GB LPDDR5X-7500, 120 GB/s
+- [Apple M1, 8 GB](https://rigrunsai.com/mac/m1-8gb/): 8 GB unified, 68 GB/s
+- [Apple M1, 16 GB](https://rigrunsai.com/mac/m1-16gb/): 16 GB unified, 68 GB/s
+- [Apple M1 Pro, 16 GB](https://rigrunsai.com/mac/m1-pro-16gb/): 16 GB unified, 200 GB/s
+- [Apple M1 Pro, 32 GB](https://rigrunsai.com/mac/m1-pro-32gb/): 32 GB unified, 200 GB/s
+- [Apple M1 Max, 32 GB](https://rigrunsai.com/mac/m1-max-32gb/): 32 GB unified, 400 GB/s
+- [Apple M1 Max, 64 GB](https://rigrunsai.com/mac/m1-max-64gb/): 64 GB unified, 400 GB/s
+- [Apple M2, 8 GB](https://rigrunsai.com/mac/m2-8gb/): 8 GB unified, 100 GB/s
+- [Apple M2, 16 GB](https://rigrunsai.com/mac/m2-16gb/): 16 GB unified, 100 GB/s
+- [Apple M2, 24 GB](https://rigrunsai.com/mac/m2-24gb/): 24 GB unified, 100 GB/s
+- [Apple M2 Pro, 16 GB](https://rigrunsai.com/mac/m2-pro-16gb/): 16 GB unified, 200 GB/s
+- [Apple M2 Pro, 32 GB](https://rigrunsai.com/mac/m2-pro-32gb/): 32 GB unified, 200 GB/s
+- [Apple M2 Max, 32 GB](https://rigrunsai.com/mac/m2-max-32gb/): 32 GB unified, 400 GB/s
+- [Apple M2 Max, 64 GB](https://rigrunsai.com/mac/m2-max-64gb/): 64 GB unified, 400 GB/s
+- [Apple M2 Max, 96 GB](https://rigrunsai.com/mac/m2-max-96gb/): 96 GB unified, 400 GB/s
+- [Apple M3, 8 GB](https://rigrunsai.com/mac/m3-8gb/): 8 GB unified, 100 GB/s
+- [Apple M3, 16 GB](https://rigrunsai.com/mac/m3-16gb/): 16 GB unified, 100 GB/s
+- [Apple M3, 24 GB](https://rigrunsai.com/mac/m3-24gb/): 24 GB unified, 100 GB/s
+- [Apple M3 Pro, 18 GB](https://rigrunsai.com/mac/m3-pro-18gb/): 18 GB unified, 150 GB/s
+- [Apple M3 Pro, 36 GB](https://rigrunsai.com/mac/m3-pro-36gb/): 36 GB unified, 150 GB/s
+- [Apple M3 Max 16-core, 48 GB](https://rigrunsai.com/mac/m3-max-48gb/): 48 GB unified, 400 GB/s
+- [Apple M3 Max 16-core, 64 GB](https://rigrunsai.com/mac/m3-max-64gb/): 64 GB unified, 400 GB/s
+- [Apple M3 Max 16-core, 128 GB](https://rigrunsai.com/mac/m3-max-128gb/): 128 GB unified, 400 GB/s
+- [Apple M4, 16 GB](https://rigrunsai.com/mac/m4-16gb/): 16 GB unified, 120 GB/s
+- [Apple M4, 24 GB](https://rigrunsai.com/mac/m4-24gb/): 24 GB unified, 120 GB/s
+- [Apple M4, 32 GB](https://rigrunsai.com/mac/m4-32gb/): 32 GB unified, 120 GB/s
+- [Apple M4 Pro, 24 GB](https://rigrunsai.com/mac/m4-pro-24gb/): 24 GB unified, 273 GB/s
+- [Apple M4 Pro, 48 GB](https://rigrunsai.com/mac/m4-pro-48gb/): 48 GB unified, 273 GB/s
+- [Apple M4 Pro, 64 GB](https://rigrunsai.com/mac/m4-pro-64gb/): 64 GB unified, 273 GB/s
+- [Apple M4 Max 14-core, 36 GB](https://rigrunsai.com/mac/m4-max-36gb/): 36 GB unified, 410 GB/s
+- [Apple M4 Max 16-core, 48 GB](https://rigrunsai.com/mac/m4-max-48gb/): 48 GB unified, 546 GB/s
+- [Apple M4 Max 16-core, 64 GB](https://rigrunsai.com/mac/m4-max-64gb/): 64 GB unified, 546 GB/s
+- [Apple M4 Max 16-core, 128 GB](https://rigrunsai.com/mac/m4-max-128gb/): 128 GB unified, 546 GB/s
 
 ## Pair answers
 - [Can GeForce RTX 3060 12GB run Llama 3.1 8B Instruct?](https://rigrunsai.com/can-rtx-3060-12gb-run-llama-3.1-8b): Yes. A GeForce RTX 3060 12GB runs Llama 3.1 8B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 33–59 tokens per second.
 - [Can GeForce RTX 3060 12GB run Llama 3.3 70B Instruct?](https://rigrunsai.com/can-rtx-3060-12gb-run-llama-3.3-70b): No. Llama 3.3 70B Instruct at Q4_K_M does not fit on GeForce RTX 3060 12GB at 8,192 tokens, even with 32 GB of system RAM.
-- [Can GeForce RTX 3060 12GB run gpt-oss-20b?](https://rigrunsai.com/can-rtx-3060-12gb-run-gpt-oss-20b): Only with CPU offload. gpt-oss-20b at MXFP4 does not fit in the 12 GB on GeForce RTX 3060 12GB, and a 32 GB system RAM pool runs it slowly, roughly 75–109 tokens per second.
-- [Can GeForce RTX 3060 12GB run Phi-4?](https://rigrunsai.com/can-rtx-3060-12gb-run-phi-4): Tight. Phi-4 at Q4_K_M loads on GeForce RTX 3060 12GB at 8,192 tokens and uses most of the fast memory, roughly 18–32 tokens per second.
-- [Can GeForce RTX 3060 12GB run Qwen3 14B?](https://rigrunsai.com/can-rtx-3060-12gb-run-qwen3-14b): Tight. Qwen3 14B at Q4_K_M loads on GeForce RTX 3060 12GB at 8,192 tokens and uses most of the fast memory, roughly 19–32 tokens per second.
+- [Can GeForce RTX 3060 12GB run gpt-oss-20b?](https://rigrunsai.com/can-rtx-3060-12gb-run-gpt-oss-20b/): Only with CPU offload. gpt-oss-20b at MXFP4 does not fit in the 12 GB on GeForce RTX 3060 12GB, and a 32 GB system RAM pool runs it slowly, roughly 75–109 tokens per second.
+- [Can GeForce RTX 3060 12GB run Phi-4?](https://rigrunsai.com/can-rtx-3060-12gb-run-phi-4/): Tight. Phi-4 at Q4_K_M loads on GeForce RTX 3060 12GB at 8,192 tokens and uses most of the fast memory, roughly 18–32 tokens per second.
+- [Can GeForce RTX 3060 12GB run Qwen3 14B?](https://rigrunsai.com/can-rtx-3060-12gb-run-qwen3-14b/): Tight. Qwen3 14B at Q4_K_M loads on GeForce RTX 3060 12GB at 8,192 tokens and uses most of the fast memory, roughly 19–32 tokens per second.
 - [Can GeForce RTX 3060 12GB run Mistral Small 3.2 24B Instruct?](https://rigrunsai.com/can-rtx-3060-12gb-run-mistral-small-3.2-24b): Only with CPU offload. Mistral Small 3.2 24B Instruct at Q4_K_M does not fit in the 12 GB on GeForce RTX 3060 12GB, and a 32 GB system RAM pool runs it slowly, roughly 3–5 tokens per second.
-- [Can GeForce RTX 3060 12GB run Gemma 4 12B?](https://rigrunsai.com/can-rtx-3060-12gb-run-gemma-4-12b): Yes. A GeForce RTX 3060 12GB runs Gemma 4 12B at Q4_K_M with room left at 8,192 tokens, roughly 26–40 tokens per second.
+- [Can GeForce RTX 3060 12GB run Gemma 4 12B?](https://rigrunsai.com/can-rtx-3060-12gb-run-gemma-4-12b/): Yes. A GeForce RTX 3060 12GB runs Gemma 4 12B at Q4_K_M with room left at 8,192 tokens, roughly 26–40 tokens per second.
 - [Can GeForce RTX 3060 12GB run Qwen3.8 27B?](https://rigrunsai.com/can-rtx-3060-12gb-run-qwen3.8-27b): Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 12 GB on GeForce RTX 3060 12GB, and a 32 GB system RAM pool runs it slowly, roughly 2–3 tokens per second.
-- [Can GeForce RTX 3060 12GB run Qwen3 8B?](https://rigrunsai.com/can-rtx-3060-12gb-run-qwen3-8b): Yes. A GeForce RTX 3060 12GB runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 32–57 tokens per second.
-- [Can GeForce RTX 3060 12GB run Gemma 4 E4B?](https://rigrunsai.com/can-rtx-3060-12gb-run-gemma-4-e4b): Yes. A GeForce RTX 3060 12GB runs Gemma 4 E4B at Q4_K_M with room left at 8,192 tokens, roughly 38–58 tokens per second.
-- [Can GeForce RTX 4060 run Qwen3 8B?](https://rigrunsai.com/can-rtx-4060-run-qwen3-8b): Yes. A GeForce RTX 4060 runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 24–43 tokens per second.
-- [Can GeForce RTX 4060 run Gemma 4 12B?](https://rigrunsai.com/can-rtx-4060-run-gemma-4-12b): Tight. Gemma 4 12B at Q4_K_M loads on GeForce RTX 4060 at 8,192 tokens and uses most of the fast memory, roughly 20–31 tokens per second.
+- [Can GeForce RTX 3060 12GB run Qwen3 8B?](https://rigrunsai.com/can-rtx-3060-12gb-run-qwen3-8b/): Yes. A GeForce RTX 3060 12GB runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 32–57 tokens per second.
+- [Can GeForce RTX 3060 12GB run Gemma 4 E4B?](https://rigrunsai.com/can-rtx-3060-12gb-run-gemma-4-e4b/): Yes. A GeForce RTX 3060 12GB runs Gemma 4 E4B at Q4_K_M with room left at 8,192 tokens, roughly 38–58 tokens per second.
+- [Can GeForce RTX 4060 run Qwen3 8B?](https://rigrunsai.com/can-rtx-4060-run-qwen3-8b/): Yes. A GeForce RTX 4060 runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 24–43 tokens per second.
+- [Can GeForce RTX 4060 run Gemma 4 12B?](https://rigrunsai.com/can-rtx-4060-run-gemma-4-12b/): Tight. Gemma 4 12B at Q4_K_M loads on GeForce RTX 4060 at 8,192 tokens and uses most of the fast memory, roughly 20–31 tokens per second.
 - [Can GeForce RTX 4060 run Llama 3.1 8B Instruct?](https://rigrunsai.com/can-rtx-4060-run-llama-3.1-8b): Yes. A GeForce RTX 4060 runs Llama 3.1 8B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 25–44 tokens per second.
-- [Can GeForce RTX 4060 run Gemma 4 E4B?](https://rigrunsai.com/can-rtx-4060-run-gemma-4-e4b): Yes. A GeForce RTX 4060 runs Gemma 4 E4B at Q4_K_M with room left at 8,192 tokens, roughly 29–44 tokens per second.
-- [Can GeForce RTX 4060 run Qwen3 14B?](https://rigrunsai.com/can-rtx-4060-run-qwen3-14b): Only with CPU offload. Qwen3 14B at Q4_K_M does not fit in the 8 GB on GeForce RTX 4060, and a 32 GB system RAM pool runs it slowly, roughly 4–6 tokens per second.
-- [Can GeForce RTX 4060 run Phi-4?](https://rigrunsai.com/can-rtx-4060-run-phi-4): Only with CPU offload. Phi-4 at Q4_K_M does not fit in the 8 GB on GeForce RTX 4060, and a 32 GB system RAM pool runs it slowly, roughly 4–6 tokens per second.
-- [Can GeForce RTX 4060 run gpt-oss-20b?](https://rigrunsai.com/can-rtx-4060-run-gpt-oss-20b): Only with CPU offload. gpt-oss-20b at MXFP4 does not fit in the 8 GB on GeForce RTX 4060, and a 32 GB system RAM pool runs it slowly, roughly 13–19 tokens per second.
+- [Can GeForce RTX 4060 run Gemma 4 E4B?](https://rigrunsai.com/can-rtx-4060-run-gemma-4-e4b/): Yes. A GeForce RTX 4060 runs Gemma 4 E4B at Q4_K_M with room left at 8,192 tokens, roughly 29–44 tokens per second.
+- [Can GeForce RTX 4060 run Qwen3 14B?](https://rigrunsai.com/can-rtx-4060-run-qwen3-14b/): Only with CPU offload. Qwen3 14B at Q4_K_M does not fit in the 8 GB on GeForce RTX 4060, and a 32 GB system RAM pool runs it slowly, roughly 4–6 tokens per second.
+- [Can GeForce RTX 4060 run Phi-4?](https://rigrunsai.com/can-rtx-4060-run-phi-4/): Only with CPU offload. Phi-4 at Q4_K_M does not fit in the 8 GB on GeForce RTX 4060, and a 32 GB system RAM pool runs it slowly, roughly 4–6 tokens per second.
+- [Can GeForce RTX 4060 run gpt-oss-20b?](https://rigrunsai.com/can-rtx-4060-run-gpt-oss-20b/): Only with CPU offload. gpt-oss-20b at MXFP4 does not fit in the 8 GB on GeForce RTX 4060, and a 32 GB system RAM pool runs it slowly, roughly 13–19 tokens per second.
 - [Can GeForce RTX 4060 run Mistral Small 3.2 24B Instruct?](https://rigrunsai.com/can-rtx-4060-run-mistral-small-3.2-24b): Only with CPU offload. Mistral Small 3.2 24B Instruct at Q4_K_M does not fit in the 8 GB on GeForce RTX 4060, and a 32 GB system RAM pool runs it slowly, roughly 2 tokens per second.
 - [Can GeForce RTX 4060 run Qwen3.8 27B?](https://rigrunsai.com/can-rtx-4060-run-qwen3.8-27b): Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 8 GB on GeForce RTX 4060, and a 32 GB system RAM pool runs it slowly, roughly 1–2 tokens per second.
 - [Can GeForce RTX 4060 Ti 16GB run Mistral Small 3.2 24B Instruct?](https://rigrunsai.com/can-rtx-4060-ti-16gb-run-mistral-small-3.2-24b): Tight. Mistral Small 3.2 24B Instruct at Q4_K_M loads on GeForce RTX 4060 Ti 16GB at 8,192 tokens and uses most of the fast memory, roughly 10–16 tokens per second.
 - [Can GeForce RTX 4060 Ti 16GB run Qwen3.8 27B?](https://rigrunsai.com/can-rtx-4060-ti-16gb-run-qwen3.8-27b): Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 16 GB on GeForce RTX 4060 Ti 16GB, and a 32 GB system RAM pool runs it slowly, roughly 7–10 tokens per second.
-- [Can GeForce RTX 4060 Ti 16GB run gpt-oss-20b?](https://rigrunsai.com/can-rtx-4060-ti-16gb-run-gpt-oss-20b): Yes. A GeForce RTX 4060 Ti 16GB runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 60–95 tokens per second.
-- [Can GeForce RTX 4060 Ti 16GB run Qwen3 30B-A3B?](https://rigrunsai.com/can-rtx-4060-ti-16gb-run-qwen3-30b-a3b): Only with CPU offload. Qwen3 30B-A3B at Q4_K_M does not fit in the 16 GB on GeForce RTX 4060 Ti 16GB, and a 32 GB system RAM pool runs it slowly, roughly 26–37 tokens per second.
-- [Can GeForce RTX 4060 Ti 16GB run Gemma 4 31B?](https://rigrunsai.com/can-rtx-4060-ti-16gb-run-gemma-4-31b): Only with CPU offload. Gemma 4 31B at Q4_K_M does not fit in the 16 GB on GeForce RTX 4060 Ti 16GB, and a 32 GB system RAM pool runs it slowly, roughly 3–4 tokens per second.
-- [Can GeForce RTX 4060 Ti 16GB run Phi-4?](https://rigrunsai.com/can-rtx-4060-ti-16gb-run-phi-4): Yes. A GeForce RTX 4060 Ti 16GB runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 15–25 tokens per second.
-- [Can GeForce RTX 4060 Ti 16GB run Qwen3 14B?](https://rigrunsai.com/can-rtx-4060-ti-16gb-run-qwen3-14b): Yes. A GeForce RTX 4060 Ti 16GB runs Qwen3 14B at Q4_K_M with room left at 8,192 tokens, roughly 15–26 tokens per second.
-- [Can GeForce RTX 4060 Ti 16GB run Qwen3 32B?](https://rigrunsai.com/can-rtx-4060-ti-16gb-run-qwen3-32b): Only with CPU offload. Qwen3 32B at Q4_K_M does not fit in the 16 GB on GeForce RTX 4060 Ti 16GB, and a 32 GB system RAM pool runs it slowly, roughly 2–3 tokens per second.
-- [Can GeForce RTX 4070 run Qwen3 14B?](https://rigrunsai.com/can-rtx-4070-run-qwen3-14b): Tight. Qwen3 14B at Q4_K_M loads on GeForce RTX 4070 at 8,192 tokens and uses most of the fast memory, roughly 27–45 tokens per second.
-- [Can GeForce RTX 4070 run gpt-oss-20b?](https://rigrunsai.com/can-rtx-4070-run-gpt-oss-20b): Only with CPU offload. gpt-oss-20b at MXFP4 does not fit in the 12 GB on GeForce RTX 4070, and a 32 GB system RAM pool runs it slowly, roughly 105–153 tokens per second.
-- [Can GeForce RTX 4070 run Phi-4?](https://rigrunsai.com/can-rtx-4070-run-phi-4): Tight. Phi-4 at Q4_K_M loads on GeForce RTX 4070 at 8,192 tokens and uses most of the fast memory, roughly 26–45 tokens per second.
+- [Can GeForce RTX 4060 Ti 16GB run gpt-oss-20b?](https://rigrunsai.com/can-rtx-4060-ti-16gb-run-gpt-oss-20b/): Yes. A GeForce RTX 4060 Ti 16GB runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 60–95 tokens per second.
+- [Can GeForce RTX 4060 Ti 16GB run Qwen3 30B-A3B?](https://rigrunsai.com/can-rtx-4060-ti-16gb-run-qwen3-30b-a3b/): Only with CPU offload. Qwen3 30B-A3B at Q4_K_M does not fit in the 16 GB on GeForce RTX 4060 Ti 16GB, and a 32 GB system RAM pool runs it slowly, roughly 26–37 tokens per second.
+- [Can GeForce RTX 4060 Ti 16GB run Gemma 4 31B?](https://rigrunsai.com/can-rtx-4060-ti-16gb-run-gemma-4-31b/): Only with CPU offload. Gemma 4 31B at Q4_K_M does not fit in the 16 GB on GeForce RTX 4060 Ti 16GB, and a 32 GB system RAM pool runs it slowly, roughly 3–4 tokens per second.
+- [Can GeForce RTX 4060 Ti 16GB run Phi-4?](https://rigrunsai.com/can-rtx-4060-ti-16gb-run-phi-4/): Yes. A GeForce RTX 4060 Ti 16GB runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 15–25 tokens per second.
+- [Can GeForce RTX 4060 Ti 16GB run Qwen3 14B?](https://rigrunsai.com/can-rtx-4060-ti-16gb-run-qwen3-14b/): Yes. A GeForce RTX 4060 Ti 16GB runs Qwen3 14B at Q4_K_M with room left at 8,192 tokens, roughly 15–26 tokens per second.
+- [Can GeForce RTX 4060 Ti 16GB run Qwen3 32B?](https://rigrunsai.com/can-rtx-4060-ti-16gb-run-qwen3-32b/): Only with CPU offload. Qwen3 32B at Q4_K_M does not fit in the 16 GB on GeForce RTX 4060 Ti 16GB, and a 32 GB system RAM pool runs it slowly, roughly 2–3 tokens per second.
+- [Can GeForce RTX 4070 run Qwen3 14B?](https://rigrunsai.com/can-rtx-4070-run-qwen3-14b/): Tight. Qwen3 14B at Q4_K_M loads on GeForce RTX 4070 at 8,192 tokens and uses most of the fast memory, roughly 27–45 tokens per second.
+- [Can GeForce RTX 4070 run gpt-oss-20b?](https://rigrunsai.com/can-rtx-4070-run-gpt-oss-20b/): Only with CPU offload. gpt-oss-20b at MXFP4 does not fit in the 12 GB on GeForce RTX 4070, and a 32 GB system RAM pool runs it slowly, roughly 105–153 tokens per second.
+- [Can GeForce RTX 4070 run Phi-4?](https://rigrunsai.com/can-rtx-4070-run-phi-4/): Tight. Phi-4 at Q4_K_M loads on GeForce RTX 4070 at 8,192 tokens and uses most of the fast memory, roughly 26–45 tokens per second.
 - [Can GeForce RTX 4070 run Mistral Small 3.2 24B Instruct?](https://rigrunsai.com/can-rtx-4070-run-mistral-small-3.2-24b): Only with CPU offload. Mistral Small 3.2 24B Instruct at Q4_K_M does not fit in the 12 GB on GeForce RTX 4070, and a 32 GB system RAM pool runs it slowly, roughly 3–5 tokens per second.
-- [Can GeForce RTX 4070 run Gemma 4 12B?](https://rigrunsai.com/can-rtx-4070-run-gemma-4-12b): Yes. A GeForce RTX 4070 runs Gemma 4 12B at Q4_K_M with room left at 8,192 tokens, roughly 37–57 tokens per second.
+- [Can GeForce RTX 4070 run Gemma 4 12B?](https://rigrunsai.com/can-rtx-4070-run-gemma-4-12b/): Yes. A GeForce RTX 4070 runs Gemma 4 12B at Q4_K_M with room left at 8,192 tokens, roughly 37–57 tokens per second.
 - [Can GeForce RTX 4070 run Qwen3.8 27B?](https://rigrunsai.com/can-rtx-4070-run-qwen3.8-27b): Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 12 GB on GeForce RTX 4070, and a 32 GB system RAM pool runs it slowly, roughly 2–4 tokens per second.
-- [Can GeForce RTX 4070 run Qwen3 8B?](https://rigrunsai.com/can-rtx-4070-run-qwen3-8b): Yes. A GeForce RTX 4070 runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 44–80 tokens per second.
+- [Can GeForce RTX 4070 run Qwen3 8B?](https://rigrunsai.com/can-rtx-4070-run-qwen3-8b/): Yes. A GeForce RTX 4070 runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 44–80 tokens per second.
 - [Can GeForce RTX 4070 run Llama 3.1 8B Instruct?](https://rigrunsai.com/can-rtx-4070-run-llama-3.1-8b): Yes. A GeForce RTX 4070 runs Llama 3.1 8B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 46–82 tokens per second.
-- [Can GeForce RTX 4070 run Gemma 4 E4B?](https://rigrunsai.com/can-rtx-4070-run-gemma-4-e4b): Yes. A GeForce RTX 4070 runs Gemma 4 E4B at Q4_K_M with room left at 8,192 tokens, roughly 53–81 tokens per second.
+- [Can GeForce RTX 4070 run Gemma 4 E4B?](https://rigrunsai.com/can-rtx-4070-run-gemma-4-e4b/): Yes. A GeForce RTX 4070 runs Gemma 4 E4B at Q4_K_M with room left at 8,192 tokens, roughly 53–81 tokens per second.
 - [Can GeForce RTX 4070 Ti Super run Mistral Small 3.2 24B Instruct?](https://rigrunsai.com/can-rtx-4070-ti-super-run-mistral-small-3.2-24b): Tight. Mistral Small 3.2 24B Instruct at Q4_K_M loads on GeForce RTX 4070 Ti Super at 8,192 tokens and uses most of the fast memory, roughly 24–38 tokens per second.
 - [Can GeForce RTX 4070 Ti Super run Qwen3.8 27B?](https://rigrunsai.com/can-rtx-4070-ti-super-run-qwen3.8-27b): Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 16 GB on GeForce RTX 4070 Ti Super, and a 32 GB system RAM pool runs it slowly, roughly 11–16 tokens per second.
-- [Can GeForce RTX 4070 Ti Super run gpt-oss-20b?](https://rigrunsai.com/can-rtx-4070-ti-super-run-gpt-oss-20b): Yes. A GeForce RTX 4070 Ti Super runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 141–222 tokens per second.
-- [Can GeForce RTX 4070 Ti Super run Qwen3 30B-A3B?](https://rigrunsai.com/can-rtx-4070-ti-super-run-qwen3-30b-a3b): Only with CPU offload. Qwen3 30B-A3B at Q4_K_M does not fit in the 16 GB on GeForce RTX 4070 Ti Super, and a 32 GB system RAM pool runs it slowly, roughly 33–49 tokens per second.
-- [Can GeForce RTX 4070 Ti Super run Gemma 4 31B?](https://rigrunsai.com/can-rtx-4070-ti-super-run-gemma-4-31b): Only with CPU offload. Gemma 4 31B at Q4_K_M does not fit in the 16 GB on GeForce RTX 4070 Ti Super, and a 32 GB system RAM pool runs it slowly, roughly 3–5 tokens per second.
-- [Can GeForce RTX 4070 Ti Super run Phi-4?](https://rigrunsai.com/can-rtx-4070-ti-super-run-phi-4): Yes. A GeForce RTX 4070 Ti Super runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 34–59 tokens per second.
-- [Can GeForce RTX 4070 Ti Super run Qwen3 14B?](https://rigrunsai.com/can-rtx-4070-ti-super-run-qwen3-14b): Yes. A GeForce RTX 4070 Ti Super runs Qwen3 14B at Q4_K_M with room left at 8,192 tokens, roughly 36–60 tokens per second.
-- [Can GeForce RTX 4070 Ti Super run Qwen3 32B?](https://rigrunsai.com/can-rtx-4070-ti-super-run-qwen3-32b): Only with CPU offload. Qwen3 32B at Q4_K_M does not fit in the 16 GB on GeForce RTX 4070 Ti Super, and a 32 GB system RAM pool runs it slowly, roughly 2–3 tokens per second.
+- [Can GeForce RTX 4070 Ti Super run gpt-oss-20b?](https://rigrunsai.com/can-rtx-4070-ti-super-run-gpt-oss-20b/): Yes. A GeForce RTX 4070 Ti Super runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 141–222 tokens per second.
+- [Can GeForce RTX 4070 Ti Super run Qwen3 30B-A3B?](https://rigrunsai.com/can-rtx-4070-ti-super-run-qwen3-30b-a3b/): Only with CPU offload. Qwen3 30B-A3B at Q4_K_M does not fit in the 16 GB on GeForce RTX 4070 Ti Super, and a 32 GB system RAM pool runs it slowly, roughly 33–49 tokens per second.
+- [Can GeForce RTX 4070 Ti Super run Gemma 4 31B?](https://rigrunsai.com/can-rtx-4070-ti-super-run-gemma-4-31b/): Only with CPU offload. Gemma 4 31B at Q4_K_M does not fit in the 16 GB on GeForce RTX 4070 Ti Super, and a 32 GB system RAM pool runs it slowly, roughly 3–5 tokens per second.
+- [Can GeForce RTX 4070 Ti Super run Phi-4?](https://rigrunsai.com/can-rtx-4070-ti-super-run-phi-4/): Yes. A GeForce RTX 4070 Ti Super runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 34–59 tokens per second.
+- [Can GeForce RTX 4070 Ti Super run Qwen3 14B?](https://rigrunsai.com/can-rtx-4070-ti-super-run-qwen3-14b/): Yes. A GeForce RTX 4070 Ti Super runs Qwen3 14B at Q4_K_M with room left at 8,192 tokens, roughly 36–60 tokens per second.
+- [Can GeForce RTX 4070 Ti Super run Qwen3 32B?](https://rigrunsai.com/can-rtx-4070-ti-super-run-qwen3-32b/): Only with CPU offload. Qwen3 32B at Q4_K_M does not fit in the 16 GB on GeForce RTX 4070 Ti Super, and a 32 GB system RAM pool runs it slowly, roughly 2–3 tokens per second.
 - [Can GeForce RTX 4090 run Llama 3.3 70B Instruct?](https://rigrunsai.com/can-rtx-4090-run-llama-3.3-70b): Only with CPU offload. Llama 3.3 70B Instruct at Q4_K_M does not fit in the 24 GB on GeForce RTX 4090, and a 32 GB system RAM pool runs it slowly, roughly 1 token per second.
-- [Can GeForce RTX 4090 run Qwen3 32B?](https://rigrunsai.com/can-rtx-4090-run-qwen3-32b): Tight. Qwen3 32B at Q4_K_M loads on GeForce RTX 4090 at 8,192 tokens and uses most of the fast memory, roughly 25–41 tokens per second.
+- [Can GeForce RTX 4090 run Qwen3 32B?](https://rigrunsai.com/can-rtx-4090-run-qwen3-32b/): Tight. Qwen3 32B at Q4_K_M loads on GeForce RTX 4090 at 8,192 tokens and uses most of the fast memory, roughly 25–41 tokens per second.
 - [Can GeForce RTX 4090 run Qwen3.6 35B-A3B?](https://rigrunsai.com/can-rtx-4090-run-qwen3.6-35b-a3b): Tight. Qwen3.6 35B-A3B at UD-Q4_K_M loads on GeForce RTX 4090 at 8,192 tokens and uses most of the fast memory, roughly 233–376 tokens per second.
-- [Can GeForce RTX 4090 run Gemma 4 31B?](https://rigrunsai.com/can-rtx-4090-run-gemma-4-31b): Yes. A GeForce RTX 4090 runs Gemma 4 31B at Q4_K_M with room left at 8,192 tokens, roughly 28–44 tokens per second.
-- [Can GeForce RTX 4090 run Qwen3 30B-A3B?](https://rigrunsai.com/can-rtx-4090-run-qwen3-30b-a3b): Yes. A GeForce RTX 4090 runs Qwen3 30B-A3B at Q4_K_M with room left at 8,192 tokens, roughly 195–397 tokens per second.
+- [Can GeForce RTX 4090 run Gemma 4 31B?](https://rigrunsai.com/can-rtx-4090-run-gemma-4-31b/): Yes. A GeForce RTX 4090 runs Gemma 4 31B at Q4_K_M with room left at 8,192 tokens, roughly 28–44 tokens per second.
+- [Can GeForce RTX 4090 run Qwen3 30B-A3B?](https://rigrunsai.com/can-rtx-4090-run-qwen3-30b-a3b/): Yes. A GeForce RTX 4090 runs Qwen3 30B-A3B at Q4_K_M with room left at 8,192 tokens, roughly 195–397 tokens per second.
 - [Can GeForce RTX 4090 run Qwen3.8 27B?](https://rigrunsai.com/can-rtx-4090-run-qwen3.8-27b): Yes. A GeForce RTX 4090 runs Qwen3.8 27B at UD-Q4_K_M with room left at 8,192 tokens, roughly 32–49 tokens per second.
 - [Can GeForce RTX 4090 run Mistral Small 3.2 24B Instruct?](https://rigrunsai.com/can-rtx-4090-run-mistral-small-3.2-24b): Yes. A GeForce RTX 4090 runs Mistral Small 3.2 24B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 35–56 tokens per second.
-- [Can GeForce RTX 4090 run gpt-oss-20b?](https://rigrunsai.com/can-rtx-4090-run-gpt-oss-20b): Yes. A GeForce RTX 4090 runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 211–333 tokens per second.
-- [Can GeForce RTX 4090 run Phi-4?](https://rigrunsai.com/can-rtx-4090-run-phi-4): Yes. A GeForce RTX 4090 runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 52–89 tokens per second.
-- [Can GeForce RTX 5070 run gpt-oss-20b?](https://rigrunsai.com/can-rtx-5070-run-gpt-oss-20b): Only with CPU offload. gpt-oss-20b at MXFP4 does not fit in the 12 GB on GeForce RTX 5070, and a 32 GB system RAM pool runs it slowly, roughly 140–204 tokens per second.
-- [Can GeForce RTX 5070 run Phi-4?](https://rigrunsai.com/can-rtx-5070-run-phi-4): Tight. Phi-4 at Q4_K_M loads on GeForce RTX 5070 at 8,192 tokens and uses most of the fast memory, roughly 34–59 tokens per second.
-- [Can GeForce RTX 5070 run Qwen3 14B?](https://rigrunsai.com/can-rtx-5070-run-qwen3-14b): Tight. Qwen3 14B at Q4_K_M loads on GeForce RTX 5070 at 8,192 tokens and uses most of the fast memory, roughly 36–60 tokens per second.
+- [Can GeForce RTX 4090 run gpt-oss-20b?](https://rigrunsai.com/can-rtx-4090-run-gpt-oss-20b/): Yes. A GeForce RTX 4090 runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 211–333 tokens per second.
+- [Can GeForce RTX 4090 run Phi-4?](https://rigrunsai.com/can-rtx-4090-run-phi-4/): Yes. A GeForce RTX 4090 runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 52–89 tokens per second.
+- [Can GeForce RTX 5070 run gpt-oss-20b?](https://rigrunsai.com/can-rtx-5070-run-gpt-oss-20b/): Only with CPU offload. gpt-oss-20b at MXFP4 does not fit in the 12 GB on GeForce RTX 5070, and a 32 GB system RAM pool runs it slowly, roughly 140–204 tokens per second.
+- [Can GeForce RTX 5070 run Phi-4?](https://rigrunsai.com/can-rtx-5070-run-phi-4/): Tight. Phi-4 at Q4_K_M loads on GeForce RTX 5070 at 8,192 tokens and uses most of the fast memory, roughly 34–59 tokens per second.
+- [Can GeForce RTX 5070 run Qwen3 14B?](https://rigrunsai.com/can-rtx-5070-run-qwen3-14b/): Tight. Qwen3 14B at Q4_K_M loads on GeForce RTX 5070 at 8,192 tokens and uses most of the fast memory, roughly 36–60 tokens per second.
 - [Can GeForce RTX 5070 run Mistral Small 3.2 24B Instruct?](https://rigrunsai.com/can-rtx-5070-run-mistral-small-3.2-24b): Only with CPU offload. Mistral Small 3.2 24B Instruct at Q4_K_M does not fit in the 12 GB on GeForce RTX 5070, and a 32 GB system RAM pool runs it slowly, roughly 6–9 tokens per second.
-- [Can GeForce RTX 5070 run Gemma 4 12B?](https://rigrunsai.com/can-rtx-5070-run-gemma-4-12b): Yes. A GeForce RTX 5070 runs Gemma 4 12B at Q4_K_M with room left at 8,192 tokens, roughly 49–75 tokens per second.
+- [Can GeForce RTX 5070 run Gemma 4 12B?](https://rigrunsai.com/can-rtx-5070-run-gemma-4-12b/): Yes. A GeForce RTX 5070 runs Gemma 4 12B at Q4_K_M with room left at 8,192 tokens, roughly 49–75 tokens per second.
 - [Can GeForce RTX 5070 run Qwen3.8 27B?](https://rigrunsai.com/can-rtx-5070-run-qwen3.8-27b): Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 12 GB on GeForce RTX 5070, and a 32 GB system RAM pool runs it slowly, roughly 5–7 tokens per second.
-- [Can GeForce RTX 5070 run Qwen3 8B?](https://rigrunsai.com/can-rtx-5070-run-qwen3-8b): Yes. A GeForce RTX 5070 runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 59–107 tokens per second.
+- [Can GeForce RTX 5070 run Qwen3 8B?](https://rigrunsai.com/can-rtx-5070-run-qwen3-8b/): Yes. A GeForce RTX 5070 runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 59–107 tokens per second.
 - [Can GeForce RTX 5070 run Llama 3.1 8B Instruct?](https://rigrunsai.com/can-rtx-5070-run-llama-3.1-8b): Yes. A GeForce RTX 5070 runs Llama 3.1 8B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 62–109 tokens per second.
 - [Can GeForce RTX 5080 run Mistral Small 3.2 24B Instruct?](https://rigrunsai.com/can-rtx-5080-run-mistral-small-3.2-24b): Tight. Mistral Small 3.2 24B Instruct at Q4_K_M loads on GeForce RTX 5080 at 8,192 tokens and uses most of the fast memory, roughly 34–54 tokens per second.
 - [Can GeForce RTX 5080 run Qwen3.8 27B?](https://rigrunsai.com/can-rtx-5080-run-qwen3.8-27b): Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 16 GB on GeForce RTX 5080, and a 32 GB system RAM pool runs it slowly, roughly 19–27 tokens per second.
-- [Can GeForce RTX 5080 run gpt-oss-20b?](https://rigrunsai.com/can-rtx-5080-run-gpt-oss-20b): Yes. A GeForce RTX 5080 runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 201–317 tokens per second.
-- [Can GeForce RTX 5080 run Qwen3 30B-A3B?](https://rigrunsai.com/can-rtx-5080-run-qwen3-30b-a3b): Only with CPU offload. Qwen3 30B-A3B at Q4_K_M does not fit in the 16 GB on GeForce RTX 5080, and a 32 GB system RAM pool runs it slowly, roughly 61–89 tokens per second.
-- [Can GeForce RTX 5080 run Gemma 4 31B?](https://rigrunsai.com/can-rtx-5080-run-gemma-4-31b): Only with CPU offload. Gemma 4 31B at Q4_K_M does not fit in the 16 GB on GeForce RTX 5080, and a 32 GB system RAM pool runs it slowly, roughly 6–9 tokens per second.
-- [Can GeForce RTX 5080 run Phi-4?](https://rigrunsai.com/can-rtx-5080-run-phi-4): Yes. A GeForce RTX 5080 runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 49–85 tokens per second.
-- [Can GeForce RTX 5080 run Qwen3 14B?](https://rigrunsai.com/can-rtx-5080-run-qwen3-14b): Yes. A GeForce RTX 5080 runs Qwen3 14B at Q4_K_M with room left at 8,192 tokens, roughly 51–85 tokens per second.
-- [Can GeForce RTX 5080 run Qwen3 32B?](https://rigrunsai.com/can-rtx-5080-run-qwen3-32b): Only with CPU offload. Qwen3 32B at Q4_K_M does not fit in the 16 GB on GeForce RTX 5080, and a 32 GB system RAM pool runs it slowly, roughly 4–6 tokens per second.
+- [Can GeForce RTX 5080 run gpt-oss-20b?](https://rigrunsai.com/can-rtx-5080-run-gpt-oss-20b/): Yes. A GeForce RTX 5080 runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 201–317 tokens per second.
+- [Can GeForce RTX 5080 run Qwen3 30B-A3B?](https://rigrunsai.com/can-rtx-5080-run-qwen3-30b-a3b/): Only with CPU offload. Qwen3 30B-A3B at Q4_K_M does not fit in the 16 GB on GeForce RTX 5080, and a 32 GB system RAM pool runs it slowly, roughly 61–89 tokens per second.
+- [Can GeForce RTX 5080 run Gemma 4 31B?](https://rigrunsai.com/can-rtx-5080-run-gemma-4-31b/): Only with CPU offload. Gemma 4 31B at Q4_K_M does not fit in the 16 GB on GeForce RTX 5080, and a 32 GB system RAM pool runs it slowly, roughly 6–9 tokens per second.
+- [Can GeForce RTX 5080 run Phi-4?](https://rigrunsai.com/can-rtx-5080-run-phi-4/): Yes. A GeForce RTX 5080 runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 49–85 tokens per second.
+- [Can GeForce RTX 5080 run Qwen3 14B?](https://rigrunsai.com/can-rtx-5080-run-qwen3-14b/): Yes. A GeForce RTX 5080 runs Qwen3 14B at Q4_K_M with room left at 8,192 tokens, roughly 51–85 tokens per second.
+- [Can GeForce RTX 5080 run Qwen3 32B?](https://rigrunsai.com/can-rtx-5080-run-qwen3-32b/): Only with CPU offload. Qwen3 32B at Q4_K_M does not fit in the 16 GB on GeForce RTX 5080, and a 32 GB system RAM pool runs it slowly, roughly 4–6 tokens per second.
 - [Can GeForce RTX 5090 run Qwen3.6 35B-A3B?](https://rigrunsai.com/can-rtx-5090-run-qwen3.6-35b-a3b): Yes. A GeForce RTX 5090 runs Qwen3.6 35B-A3B at UD-Q4_K_M with room left at 8,192 tokens, roughly 414–668 tokens per second.
-- [Can GeForce RTX 5090 run Qwen3 32B?](https://rigrunsai.com/can-rtx-5090-run-qwen3-32b): Yes. A GeForce RTX 5090 runs Qwen3 32B at Q4_K_M with room left at 8,192 tokens, roughly 45–73 tokens per second.
-- [Can GeForce RTX 5090 run Gemma 4 31B?](https://rigrunsai.com/can-rtx-5090-run-gemma-4-31b): Yes. A GeForce RTX 5090 runs Gemma 4 31B at Q4_K_M with room left at 8,192 tokens, roughly 50–78 tokens per second.
-- [Can GeForce RTX 5090 run Qwen3 30B-A3B?](https://rigrunsai.com/can-rtx-5090-run-qwen3-30b-a3b): Yes. A GeForce RTX 5090 runs Qwen3 30B-A3B at Q4_K_M with room left at 8,192 tokens, roughly 347–706 tokens per second.
+- [Can GeForce RTX 5090 run Qwen3 32B?](https://rigrunsai.com/can-rtx-5090-run-qwen3-32b/): Yes. A GeForce RTX 5090 runs Qwen3 32B at Q4_K_M with room left at 8,192 tokens, roughly 45–73 tokens per second.
+- [Can GeForce RTX 5090 run Gemma 4 31B?](https://rigrunsai.com/can-rtx-5090-run-gemma-4-31b/): Yes. A GeForce RTX 5090 runs Gemma 4 31B at Q4_K_M with room left at 8,192 tokens, roughly 50–78 tokens per second.
+- [Can GeForce RTX 5090 run Qwen3 30B-A3B?](https://rigrunsai.com/can-rtx-5090-run-qwen3-30b-a3b/): Yes. A GeForce RTX 5090 runs Qwen3 30B-A3B at Q4_K_M with room left at 8,192 tokens, roughly 347–706 tokens per second.
 - [Can GeForce RTX 5090 run Llama 3.3 70B Instruct?](https://rigrunsai.com/can-rtx-5090-run-llama-3.3-70b): Only with CPU offload. Llama 3.3 70B Instruct at Q4_K_M does not fit in the 32 GB on GeForce RTX 5090, and a 32 GB system RAM pool runs it slowly, roughly 2–3 tokens per second.
 - [Can GeForce RTX 5090 run Qwen3.8 27B?](https://rigrunsai.com/can-rtx-5090-run-qwen3.8-27b): Yes. A GeForce RTX 5090 runs Qwen3.8 27B at UD-Q4_K_M with room left at 8,192 tokens, roughly 57–87 tokens per second.
 - [Can GeForce RTX 5090 run Mistral Small 3.2 24B Instruct?](https://rigrunsai.com/can-rtx-5090-run-mistral-small-3.2-24b): Yes. A GeForce RTX 5090 runs Mistral Small 3.2 24B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 63–100 tokens per second.
 - [Can Radeon RX 7800 XT run Mistral Small 3.2 24B Instruct?](https://rigrunsai.com/can-rx-7800-xt-run-mistral-small-3.2-24b): Tight. Mistral Small 3.2 24B Instruct at Q4_K_M loads on Radeon RX 7800 XT at 8,192 tokens and uses most of the fast memory, roughly 22–35 tokens per second.
 - [Can Radeon RX 7800 XT run Qwen3.8 27B?](https://rigrunsai.com/can-rx-7800-xt-run-qwen3.8-27b): Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 16 GB on Radeon RX 7800 XT, and a 32 GB system RAM pool runs it slowly, roughly 11–16 tokens per second.
-- [Can Radeon RX 7800 XT run gpt-oss-20b?](https://rigrunsai.com/can-rx-7800-xt-run-gpt-oss-20b): Yes. A Radeon RX 7800 XT runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 131–206 tokens per second.
-- [Can Radeon RX 7800 XT run Qwen3 30B-A3B?](https://rigrunsai.com/can-rx-7800-xt-run-qwen3-30b-a3b): Only with CPU offload. Qwen3 30B-A3B at Q4_K_M does not fit in the 16 GB on Radeon RX 7800 XT, and a 32 GB system RAM pool runs it slowly, roughly 33–48 tokens per second.
-- [Can Radeon RX 7800 XT run Gemma 4 31B?](https://rigrunsai.com/can-rx-7800-xt-run-gemma-4-31b): Only with CPU offload. Gemma 4 31B at Q4_K_M does not fit in the 16 GB on Radeon RX 7800 XT, and a 32 GB system RAM pool runs it slowly, roughly 3–5 tokens per second.
-- [Can Radeon RX 7800 XT run Phi-4?](https://rigrunsai.com/can-rx-7800-xt-run-phi-4): Yes. A Radeon RX 7800 XT runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 32–55 tokens per second.
-- [Can Radeon RX 7800 XT run Qwen3 14B?](https://rigrunsai.com/can-rx-7800-xt-run-qwen3-14b): Yes. A Radeon RX 7800 XT runs Qwen3 14B at Q4_K_M with room left at 8,192 tokens, roughly 33–55 tokens per second.
-- [Can Radeon RX 7800 XT run Qwen3 32B?](https://rigrunsai.com/can-rx-7800-xt-run-qwen3-32b): Only with CPU offload. Qwen3 32B at Q4_K_M does not fit in the 16 GB on Radeon RX 7800 XT, and a 32 GB system RAM pool runs it slowly, roughly 2–3 tokens per second.
+- [Can Radeon RX 7800 XT run gpt-oss-20b?](https://rigrunsai.com/can-rx-7800-xt-run-gpt-oss-20b/): Yes. A Radeon RX 7800 XT runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 131–206 tokens per second.
+- [Can Radeon RX 7800 XT run Qwen3 30B-A3B?](https://rigrunsai.com/can-rx-7800-xt-run-qwen3-30b-a3b/): Only with CPU offload. Qwen3 30B-A3B at Q4_K_M does not fit in the 16 GB on Radeon RX 7800 XT, and a 32 GB system RAM pool runs it slowly, roughly 33–48 tokens per second.
+- [Can Radeon RX 7800 XT run Gemma 4 31B?](https://rigrunsai.com/can-rx-7800-xt-run-gemma-4-31b/): Only with CPU offload. Gemma 4 31B at Q4_K_M does not fit in the 16 GB on Radeon RX 7800 XT, and a 32 GB system RAM pool runs it slowly, roughly 3–5 tokens per second.
+- [Can Radeon RX 7800 XT run Phi-4?](https://rigrunsai.com/can-rx-7800-xt-run-phi-4/): Yes. A Radeon RX 7800 XT runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 32–55 tokens per second.
+- [Can Radeon RX 7800 XT run Qwen3 14B?](https://rigrunsai.com/can-rx-7800-xt-run-qwen3-14b/): Yes. A Radeon RX 7800 XT runs Qwen3 14B at Q4_K_M with room left at 8,192 tokens, roughly 33–55 tokens per second.
+- [Can Radeon RX 7800 XT run Qwen3 32B?](https://rigrunsai.com/can-rx-7800-xt-run-qwen3-32b/): Only with CPU offload. Qwen3 32B at Q4_K_M does not fit in the 16 GB on Radeon RX 7800 XT, and a 32 GB system RAM pool runs it slowly, roughly 2–3 tokens per second.
 - [Can Radeon RX 7900 XTX run Qwen3.6 35B-A3B?](https://rigrunsai.com/can-rx-7900-xtx-run-qwen3.6-35b-a3b): Tight. Qwen3.6 35B-A3B at UD-Q4_K_M loads on Radeon RX 7900 XTX at 8,192 tokens and uses most of the fast memory, roughly 222–358 tokens per second.
-- [Can Radeon RX 7900 XTX run Qwen3 32B?](https://rigrunsai.com/can-rx-7900-xtx-run-qwen3-32b): Tight. Qwen3 32B at Q4_K_M loads on Radeon RX 7900 XTX at 8,192 tokens and uses most of the fast memory, roughly 24–39 tokens per second.
-- [Can Radeon RX 7900 XTX run Gemma 4 31B?](https://rigrunsai.com/can-rx-7900-xtx-run-gemma-4-31b): Yes. A Radeon RX 7900 XTX runs Gemma 4 31B at Q4_K_M with room left at 8,192 tokens, roughly 27–42 tokens per second.
-- [Can Radeon RX 7900 XTX run Qwen3 30B-A3B?](https://rigrunsai.com/can-rx-7900-xtx-run-qwen3-30b-a3b): Yes. A Radeon RX 7900 XTX runs Qwen3 30B-A3B at Q4_K_M with room left at 8,192 tokens, roughly 186–378 tokens per second.
+- [Can Radeon RX 7900 XTX run Qwen3 32B?](https://rigrunsai.com/can-rx-7900-xtx-run-qwen3-32b/): Tight. Qwen3 32B at Q4_K_M loads on Radeon RX 7900 XTX at 8,192 tokens and uses most of the fast memory, roughly 24–39 tokens per second.
+- [Can Radeon RX 7900 XTX run Gemma 4 31B?](https://rigrunsai.com/can-rx-7900-xtx-run-gemma-4-31b/): Yes. A Radeon RX 7900 XTX runs Gemma 4 31B at Q4_K_M with room left at 8,192 tokens, roughly 27–42 tokens per second.
+- [Can Radeon RX 7900 XTX run Qwen3 30B-A3B?](https://rigrunsai.com/can-rx-7900-xtx-run-qwen3-30b-a3b/): Yes. A Radeon RX 7900 XTX runs Qwen3 30B-A3B at Q4_K_M with room left at 8,192 tokens, roughly 186–378 tokens per second.
 - [Can Radeon RX 7900 XTX run Qwen3.8 27B?](https://rigrunsai.com/can-rx-7900-xtx-run-qwen3.8-27b): Yes. A Radeon RX 7900 XTX runs Qwen3.8 27B at UD-Q4_K_M with room left at 8,192 tokens, roughly 31–47 tokens per second.
 - [Can Radeon RX 7900 XTX run Mistral Small 3.2 24B Instruct?](https://rigrunsai.com/can-rx-7900-xtx-run-mistral-small-3.2-24b): Yes. A Radeon RX 7900 XTX runs Mistral Small 3.2 24B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 34–54 tokens per second.
-- [Can Radeon RX 7900 XTX run gpt-oss-20b?](https://rigrunsai.com/can-rx-7900-xtx-run-gpt-oss-20b): Yes. A Radeon RX 7900 XTX runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 201–317 tokens per second.
-- [Can Radeon RX 7900 XTX run Phi-4?](https://rigrunsai.com/can-rx-7900-xtx-run-phi-4): Yes. A Radeon RX 7900 XTX runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 49–85 tokens per second.
+- [Can Radeon RX 7900 XTX run gpt-oss-20b?](https://rigrunsai.com/can-rx-7900-xtx-run-gpt-oss-20b/): Yes. A Radeon RX 7900 XTX runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 201–317 tokens per second.
+- [Can Radeon RX 7900 XTX run Phi-4?](https://rigrunsai.com/can-rx-7900-xtx-run-phi-4/): Yes. A Radeon RX 7900 XTX runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 49–85 tokens per second.
 - [Can Radeon RX 9070 XT run Mistral Small 3.2 24B Instruct?](https://rigrunsai.com/can-rx-9070-xt-run-mistral-small-3.2-24b): Tight. Mistral Small 3.2 24B Instruct at Q4_K_M loads on Radeon RX 9070 XT at 8,192 tokens and uses most of the fast memory, roughly 22–36 tokens per second.
 - [Can Radeon RX 9070 XT run Qwen3.8 27B?](https://rigrunsai.com/can-rx-9070-xt-run-qwen3.8-27b): Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 16 GB on Radeon RX 9070 XT, and a 32 GB system RAM pool runs it slowly, roughly 15–21 tokens per second.
-- [Can Radeon RX 9070 XT run gpt-oss-20b?](https://rigrunsai.com/can-rx-9070-xt-run-gpt-oss-20b): Yes. A Radeon RX 9070 XT runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 134–211 tokens per second.
-- [Can Radeon RX 9070 XT run Qwen3 30B-A3B?](https://rigrunsai.com/can-rx-9070-xt-run-qwen3-30b-a3b): Only with CPU offload. Qwen3 30B-A3B at Q4_K_M does not fit in the 16 GB on Radeon RX 9070 XT, and a 32 GB system RAM pool runs it slowly, roughly 53–78 tokens per second.
-- [Can Radeon RX 9070 XT run Gemma 4 31B?](https://rigrunsai.com/can-rx-9070-xt-run-gemma-4-31b): Only with CPU offload. Gemma 4 31B at Q4_K_M does not fit in the 16 GB on Radeon RX 9070 XT, and a 32 GB system RAM pool runs it slowly, roughly 6–8 tokens per second.
-- [Can Radeon RX 9070 XT run Phi-4?](https://rigrunsai.com/can-rx-9070-xt-run-phi-4): Yes. A Radeon RX 9070 XT runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 33–57 tokens per second.
-- [Can Radeon RX 9070 XT run Qwen3 14B?](https://rigrunsai.com/can-rx-9070-xt-run-qwen3-14b): Yes. A Radeon RX 9070 XT runs Qwen3 14B at Q4_K_M with room left at 8,192 tokens, roughly 34–57 tokens per second.
-- [Can Radeon RX 9070 XT run Qwen3 32B?](https://rigrunsai.com/can-rx-9070-xt-run-qwen3-32b): Only with CPU offload. Qwen3 32B at Q4_K_M does not fit in the 16 GB on Radeon RX 9070 XT, and a 32 GB system RAM pool runs it slowly, roughly 4–6 tokens per second.
-- [Can Intel Arc B580 run gpt-oss-20b?](https://rigrunsai.com/can-arc-b580-run-gpt-oss-20b): Only with CPU offload. gpt-oss-20b at MXFP4 does not fit in the 12 GB on Intel Arc B580, and a 32 GB system RAM pool runs it slowly, roughly 95–138 tokens per second.
-- [Can Intel Arc B580 run Phi-4?](https://rigrunsai.com/can-arc-b580-run-phi-4): Tight. Phi-4 at Q4_K_M loads on Intel Arc B580 at 8,192 tokens and uses most of the fast memory, roughly 23–40 tokens per second.
-- [Can Intel Arc B580 run Qwen3 14B?](https://rigrunsai.com/can-arc-b580-run-qwen3-14b): Tight. Qwen3 14B at Q4_K_M loads on Intel Arc B580 at 8,192 tokens and uses most of the fast memory, roughly 24–41 tokens per second.
+- [Can Radeon RX 9070 XT run gpt-oss-20b?](https://rigrunsai.com/can-rx-9070-xt-run-gpt-oss-20b/): Yes. A Radeon RX 9070 XT runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 134–211 tokens per second.
+- [Can Radeon RX 9070 XT run Qwen3 30B-A3B?](https://rigrunsai.com/can-rx-9070-xt-run-qwen3-30b-a3b/): Only with CPU offload. Qwen3 30B-A3B at Q4_K_M does not fit in the 16 GB on Radeon RX 9070 XT, and a 32 GB system RAM pool runs it slowly, roughly 53–78 tokens per second.
+- [Can Radeon RX 9070 XT run Gemma 4 31B?](https://rigrunsai.com/can-rx-9070-xt-run-gemma-4-31b/): Only with CPU offload. Gemma 4 31B at Q4_K_M does not fit in the 16 GB on Radeon RX 9070 XT, and a 32 GB system RAM pool runs it slowly, roughly 6–8 tokens per second.
+- [Can Radeon RX 9070 XT run Phi-4?](https://rigrunsai.com/can-rx-9070-xt-run-phi-4/): Yes. A Radeon RX 9070 XT runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 33–57 tokens per second.
+- [Can Radeon RX 9070 XT run Qwen3 14B?](https://rigrunsai.com/can-rx-9070-xt-run-qwen3-14b/): Yes. A Radeon RX 9070 XT runs Qwen3 14B at Q4_K_M with room left at 8,192 tokens, roughly 34–57 tokens per second.
+- [Can Radeon RX 9070 XT run Qwen3 32B?](https://rigrunsai.com/can-rx-9070-xt-run-qwen3-32b/): Only with CPU offload. Qwen3 32B at Q4_K_M does not fit in the 16 GB on Radeon RX 9070 XT, and a 32 GB system RAM pool runs it slowly, roughly 4–6 tokens per second.
+- [Can Intel Arc B580 run gpt-oss-20b?](https://rigrunsai.com/can-arc-b580-run-gpt-oss-20b/): Only with CPU offload. gpt-oss-20b at MXFP4 does not fit in the 12 GB on Intel Arc B580, and a 32 GB system RAM pool runs it slowly, roughly 95–138 tokens per second.
+- [Can Intel Arc B580 run Phi-4?](https://rigrunsai.com/can-arc-b580-run-phi-4/): Tight. Phi-4 at Q4_K_M loads on Intel Arc B580 at 8,192 tokens and uses most of the fast memory, roughly 23–40 tokens per second.
+- [Can Intel Arc B580 run Qwen3 14B?](https://rigrunsai.com/can-arc-b580-run-qwen3-14b/): Tight. Qwen3 14B at Q4_K_M loads on Intel Arc B580 at 8,192 tokens and uses most of the fast memory, roughly 24–41 tokens per second.
 - [Can Intel Arc B580 run Mistral Small 3.2 24B Instruct?](https://rigrunsai.com/can-arc-b580-run-mistral-small-3.2-24b): Only with CPU offload. Mistral Small 3.2 24B Instruct at Q4_K_M does not fit in the 12 GB on Intel Arc B580, and a 32 GB system RAM pool runs it slowly, roughly 3–5 tokens per second.
-- [Can Intel Arc B580 run Gemma 4 12B?](https://rigrunsai.com/can-arc-b580-run-gemma-4-12b): Yes. A Intel Arc B580 runs Gemma 4 12B at Q4_K_M with room left at 8,192 tokens, roughly 33–51 tokens per second.
+- [Can Intel Arc B580 run Gemma 4 12B?](https://rigrunsai.com/can-arc-b580-run-gemma-4-12b/): Yes. A Intel Arc B580 runs Gemma 4 12B at Q4_K_M with room left at 8,192 tokens, roughly 33–51 tokens per second.
 - [Can Intel Arc B580 run Qwen3.8 27B?](https://rigrunsai.com/can-arc-b580-run-qwen3.8-27b): Only with CPU offload. Qwen3.8 27B at UD-Q4_K_M does not fit in the 12 GB on Intel Arc B580, and a 32 GB system RAM pool runs it slowly, roughly 2–3 tokens per second.
-- [Can Intel Arc B580 run Qwen3 8B?](https://rigrunsai.com/can-arc-b580-run-qwen3-8b): Yes. A Intel Arc B580 runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 40–73 tokens per second.
+- [Can Intel Arc B580 run Qwen3 8B?](https://rigrunsai.com/can-arc-b580-run-qwen3-8b/): Yes. A Intel Arc B580 runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 40–73 tokens per second.
 - [Can Intel Arc B580 run Llama 3.1 8B Instruct?](https://rigrunsai.com/can-arc-b580-run-llama-3.1-8b): Yes. A Intel Arc B580 runs Llama 3.1 8B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 42–74 tokens per second.
 - [Can Steam Deck OLED run Llama 3.2 3B Instruct?](https://rigrunsai.com/can-steam-deck-oled-run-llama-3.2-3b): Yes. Steam Deck OLED runs Llama 3.2 3B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 19–41 tokens per second.
 - [Can Steam Deck OLED run Llama 3.1 8B Instruct?](https://rigrunsai.com/can-steam-deck-oled-run-llama-3.1-8b): Yes. Steam Deck OLED runs Llama 3.1 8B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 9–17 tokens per second.
-- [Can Steam Deck OLED run Phi-4?](https://rigrunsai.com/can-steam-deck-oled-run-phi-4): Tight. Phi-4 at Q4_K_M loads on Steam Deck OLED at 8,192 tokens and uses most of the fast memory, roughly 5–9 tokens per second.
-- [Can Steam Deck OLED run Qwen3 14B?](https://rigrunsai.com/can-steam-deck-oled-run-qwen3-14b): Tight. Qwen3 14B at Q4_K_M loads on Steam Deck OLED at 8,192 tokens and uses most of the fast memory, roughly 5–9 tokens per second.
-- [Can Steam Deck OLED run Gemma 4 12B?](https://rigrunsai.com/can-steam-deck-oled-run-gemma-4-12b): Yes. Steam Deck OLED runs Gemma 4 12B at Q4_K_M with room left at 8,192 tokens, roughly 7–12 tokens per second.
-- [Can Steam Deck OLED run Qwen3 8B?](https://rigrunsai.com/can-steam-deck-oled-run-qwen3-8b): Yes. Steam Deck OLED runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 9–16 tokens per second.
-- [Can Steam Deck OLED run Gemma 4 E4B?](https://rigrunsai.com/can-steam-deck-oled-run-gemma-4-e4b): Yes. Steam Deck OLED runs Gemma 4 E4B at Q4_K_M with room left at 8,192 tokens, roughly 11–16 tokens per second.
-- [Can Steam Deck OLED run Qwen3 30B-A3B?](https://rigrunsai.com/can-steam-deck-oled-run-qwen3-30b-a3b): No. Qwen3 30B-A3B at Q4_K_M does not fit on Steam Deck OLED at 8,192 tokens, even with 16 GB of system RAM.
-- [Can Steam Deck OLED run Gemma 4 31B?](https://rigrunsai.com/can-steam-deck-oled-run-gemma-4-31b): No. Gemma 4 31B at Q4_K_M does not fit on Steam Deck OLED at 8,192 tokens, even with 16 GB of system RAM.
-- [Can Steam Deck OLED run Qwen3 32B?](https://rigrunsai.com/can-steam-deck-oled-run-qwen3-32b): No. Qwen3 32B at Q4_K_M does not fit on Steam Deck OLED at 8,192 tokens, even with 16 GB of system RAM.
+- [Can Steam Deck OLED run Phi-4?](https://rigrunsai.com/can-steam-deck-oled-run-phi-4/): Tight. Phi-4 at Q4_K_M loads on Steam Deck OLED at 8,192 tokens and uses most of the fast memory, roughly 5–9 tokens per second.
+- [Can Steam Deck OLED run Qwen3 14B?](https://rigrunsai.com/can-steam-deck-oled-run-qwen3-14b/): Tight. Qwen3 14B at Q4_K_M loads on Steam Deck OLED at 8,192 tokens and uses most of the fast memory, roughly 5–9 tokens per second.
+- [Can Steam Deck OLED run Gemma 4 12B?](https://rigrunsai.com/can-steam-deck-oled-run-gemma-4-12b/): Yes. Steam Deck OLED runs Gemma 4 12B at Q4_K_M with room left at 8,192 tokens, roughly 7–12 tokens per second.
+- [Can Steam Deck OLED run Qwen3 8B?](https://rigrunsai.com/can-steam-deck-oled-run-qwen3-8b/): Yes. Steam Deck OLED runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 9–16 tokens per second.
+- [Can Steam Deck OLED run Gemma 4 E4B?](https://rigrunsai.com/can-steam-deck-oled-run-gemma-4-e4b/): Yes. Steam Deck OLED runs Gemma 4 E4B at Q4_K_M with room left at 8,192 tokens, roughly 11–16 tokens per second.
+- [Can Steam Deck OLED run Qwen3 30B-A3B?](https://rigrunsai.com/can-steam-deck-oled-run-qwen3-30b-a3b/): No. Qwen3 30B-A3B at Q4_K_M does not fit on Steam Deck OLED at 8,192 tokens, even with 16 GB of system RAM.
+- [Can Steam Deck OLED run Gemma 4 31B?](https://rigrunsai.com/can-steam-deck-oled-run-gemma-4-31b/): No. Gemma 4 31B at Q4_K_M does not fit on Steam Deck OLED at 8,192 tokens, even with 16 GB of system RAM.
+- [Can Steam Deck OLED run Qwen3 32B?](https://rigrunsai.com/can-steam-deck-oled-run-qwen3-32b/): No. Qwen3 32B at Q4_K_M does not fit on Steam Deck OLED at 8,192 tokens, even with 16 GB of system RAM.
 - [Can ROG Ally X run Qwen3.8 27B?](https://rigrunsai.com/can-rog-ally-x-run-qwen3.8-27b): Tight. Qwen3.8 27B at UD-Q4_K_M loads on ROG Ally X at 8,192 tokens and uses most of the fast memory, roughly 4–6 tokens per second.
 - [Can ROG Ally X run Mistral Small 3.2 24B Instruct?](https://rigrunsai.com/can-rog-ally-x-run-mistral-small-3.2-24b): Tight. Mistral Small 3.2 24B Instruct at Q4_K_M loads on ROG Ally X at 8,192 tokens and uses most of the fast memory, roughly 4–7 tokens per second.
-- [Can ROG Ally X run gpt-oss-20b?](https://rigrunsai.com/can-rog-ally-x-run-gpt-oss-20b): Yes. ROG Ally X runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 25–40 tokens per second.
-- [Can ROG Ally X run Phi-4?](https://rigrunsai.com/can-rog-ally-x-run-phi-4): Yes. ROG Ally X runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 6–11 tokens per second.
-- [Can ROG Ally X run Qwen3 14B?](https://rigrunsai.com/can-rog-ally-x-run-qwen3-14b): Yes. ROG Ally X runs Qwen3 14B at Q4_K_M with room left at 8,192 tokens, roughly 6–11 tokens per second.
-- [Can Apple M4, 16 GB run Gemma 4 12B?](https://rigrunsai.com/can-m4-16gb-run-gemma-4-12b): Yes. Apple M4, 16 GB runs Gemma 4 12B at Q4_K_M with room left at 8,192 tokens, roughly 9–13 tokens per second.
-- [Can Apple M4, 16 GB run Phi-4?](https://rigrunsai.com/can-m4-16gb-run-phi-4): Tight. Phi-4 at Q4_K_M loads on Apple M4, 16 GB at 8,192 tokens and uses most of the fast memory, roughly 6–11 tokens per second.
-- [Can Apple M4, 16 GB run Qwen3 14B?](https://rigrunsai.com/can-m4-16gb-run-qwen3-14b): Tight. Qwen3 14B at Q4_K_M loads on Apple M4, 16 GB at 8,192 tokens and uses most of the fast memory, roughly 6–11 tokens per second.
-- [Can Apple M4, 16 GB run Qwen3 8B?](https://rigrunsai.com/can-m4-16gb-run-qwen3-8b): Yes. Apple M4, 16 GB runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 11–19 tokens per second.
+- [Can ROG Ally X run gpt-oss-20b?](https://rigrunsai.com/can-rog-ally-x-run-gpt-oss-20b/): Yes. ROG Ally X runs gpt-oss-20b at MXFP4 with room left at 8,192 tokens, roughly 25–40 tokens per second.
+- [Can ROG Ally X run Phi-4?](https://rigrunsai.com/can-rog-ally-x-run-phi-4/): Yes. ROG Ally X runs Phi-4 at Q4_K_M with room left at 8,192 tokens, roughly 6–11 tokens per second.
+- [Can ROG Ally X run Qwen3 14B?](https://rigrunsai.com/can-rog-ally-x-run-qwen3-14b/): Yes. ROG Ally X runs Qwen3 14B at Q4_K_M with room left at 8,192 tokens, roughly 6–11 tokens per second.
+- [Can Apple M4, 16 GB run Gemma 4 12B?](https://rigrunsai.com/can-m4-16gb-run-gemma-4-12b/): Yes. Apple M4, 16 GB runs Gemma 4 12B at Q4_K_M with room left at 8,192 tokens, roughly 9–13 tokens per second.
+- [Can Apple M4, 16 GB run Phi-4?](https://rigrunsai.com/can-m4-16gb-run-phi-4/): Tight. Phi-4 at Q4_K_M loads on Apple M4, 16 GB at 8,192 tokens and uses most of the fast memory, roughly 6–11 tokens per second.
+- [Can Apple M4, 16 GB run Qwen3 14B?](https://rigrunsai.com/can-m4-16gb-run-qwen3-14b/): Tight. Qwen3 14B at Q4_K_M loads on Apple M4, 16 GB at 8,192 tokens and uses most of the fast memory, roughly 6–11 tokens per second.
+- [Can Apple M4, 16 GB run Qwen3 8B?](https://rigrunsai.com/can-m4-16gb-run-qwen3-8b/): Yes. Apple M4, 16 GB runs Qwen3 8B at Q4_K_M with room left at 8,192 tokens, roughly 11–19 tokens per second.
 - [Can Apple M4, 16 GB run Llama 3.1 8B Instruct?](https://rigrunsai.com/can-m4-16gb-run-llama-3.1-8b): Yes. Apple M4, 16 GB runs Llama 3.1 8B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 11–20 tokens per second.
-- [Can Apple M4, 16 GB run Gemma 4 E4B?](https://rigrunsai.com/can-m4-16gb-run-gemma-4-e4b): Yes. Apple M4, 16 GB runs Gemma 4 E4B at Q4_K_M with room left at 8,192 tokens, roughly 13–19 tokens per second.
-- [Can Apple M4, 16 GB run Qwen3 30B-A3B?](https://rigrunsai.com/can-m4-16gb-run-qwen3-30b-a3b): No. Qwen3 30B-A3B at Q4_K_M does not fit on Apple M4, 16 GB at 8,192 tokens, even with 16 GB of system RAM.
-- [Can Apple M4, 16 GB run Gemma 4 31B?](https://rigrunsai.com/can-m4-16gb-run-gemma-4-31b): No. Gemma 4 31B at Q4_K_M does not fit on Apple M4, 16 GB at 8,192 tokens, even with 16 GB of system RAM.
-- [Can Apple M4, 16 GB run Qwen3 32B?](https://rigrunsai.com/can-m4-16gb-run-qwen3-32b): No. Qwen3 32B at Q4_K_M does not fit on Apple M4, 16 GB at 8,192 tokens, even with 16 GB of system RAM.
+- [Can Apple M4, 16 GB run Gemma 4 E4B?](https://rigrunsai.com/can-m4-16gb-run-gemma-4-e4b/): Yes. Apple M4, 16 GB runs Gemma 4 E4B at Q4_K_M with room left at 8,192 tokens, roughly 13–19 tokens per second.
+- [Can Apple M4, 16 GB run Qwen3 30B-A3B?](https://rigrunsai.com/can-m4-16gb-run-qwen3-30b-a3b/): No. Qwen3 30B-A3B at Q4_K_M does not fit on Apple M4, 16 GB at 8,192 tokens, even with 16 GB of system RAM.
+- [Can Apple M4, 16 GB run Gemma 4 31B?](https://rigrunsai.com/can-m4-16gb-run-gemma-4-31b/): No. Gemma 4 31B at Q4_K_M does not fit on Apple M4, 16 GB at 8,192 tokens, even with 16 GB of system RAM.
+- [Can Apple M4, 16 GB run Qwen3 32B?](https://rigrunsai.com/can-m4-16gb-run-qwen3-32b/): No. Qwen3 32B at Q4_K_M does not fit on Apple M4, 16 GB at 8,192 tokens, even with 16 GB of system RAM.
 - [Can Apple M4 Pro, 48 GB run Qwen3.6 35B-A3B?](https://rigrunsai.com/can-m4-pro-48gb-run-qwen3.6-35b-a3b): Yes. Apple M4 Pro, 48 GB runs Qwen3.6 35B-A3B at UD-Q4_K_M with room left at 8,192 tokens, roughly 63–102 tokens per second.
-- [Can Apple M4 Pro, 48 GB run Qwen3 32B?](https://rigrunsai.com/can-m4-pro-48gb-run-qwen3-32b): Yes. Apple M4 Pro, 48 GB runs Qwen3 32B at Q4_K_M with room left at 8,192 tokens, roughly 7–11 tokens per second.
-- [Can Apple M4 Pro, 48 GB run Gemma 4 31B?](https://rigrunsai.com/can-m4-pro-48gb-run-gemma-4-31b): Yes. Apple M4 Pro, 48 GB runs Gemma 4 31B at Q4_K_M with room left at 8,192 tokens, roughly 8–12 tokens per second.
-- [Can Apple M4 Pro, 48 GB run Qwen3 30B-A3B?](https://rigrunsai.com/can-m4-pro-48gb-run-qwen3-30b-a3b): Yes. Apple M4 Pro, 48 GB runs Qwen3 30B-A3B at Q4_K_M with room left at 8,192 tokens, roughly 53–108 tokens per second.
+- [Can Apple M4 Pro, 48 GB run Qwen3 32B?](https://rigrunsai.com/can-m4-pro-48gb-run-qwen3-32b/): Yes. Apple M4 Pro, 48 GB runs Qwen3 32B at Q4_K_M with room left at 8,192 tokens, roughly 7–11 tokens per second.
+- [Can Apple M4 Pro, 48 GB run Gemma 4 31B?](https://rigrunsai.com/can-m4-pro-48gb-run-gemma-4-31b/): Yes. Apple M4 Pro, 48 GB runs Gemma 4 31B at Q4_K_M with room left at 8,192 tokens, roughly 8–12 tokens per second.
+- [Can Apple M4 Pro, 48 GB run Qwen3 30B-A3B?](https://rigrunsai.com/can-m4-pro-48gb-run-qwen3-30b-a3b/): Yes. Apple M4 Pro, 48 GB runs Qwen3 30B-A3B at Q4_K_M with room left at 8,192 tokens, roughly 53–108 tokens per second.
 - [Can Apple M4 Pro, 48 GB run Qwen3.8 27B?](https://rigrunsai.com/can-m4-pro-48gb-run-qwen3.8-27b): Yes. Apple M4 Pro, 48 GB runs Qwen3.8 27B at UD-Q4_K_M with room left at 8,192 tokens, roughly 9–13 tokens per second.
 - [Can Apple M1, 8 GB run Llama 3.2 3B Instruct?](https://rigrunsai.com/can-m1-8gb-run-llama-3.2-3b): Yes. Apple M1, 8 GB runs Llama 3.2 3B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 13–27 tokens per second.
-- [Can Apple M1, 8 GB run Qwen3 30B-A3B?](https://rigrunsai.com/can-m1-8gb-run-qwen3-30b-a3b): No. Qwen3 30B-A3B at Q4_K_M does not fit on Apple M1, 8 GB at 8,192 tokens, even with 8 GB of system RAM.
-- [Can Apple M1, 8 GB run Gemma 4 31B?](https://rigrunsai.com/can-m1-8gb-run-gemma-4-31b): No. Gemma 4 31B at Q4_K_M does not fit on Apple M1, 8 GB at 8,192 tokens, even with 8 GB of system RAM.
-- [Can Apple M1, 8 GB run Qwen3 32B?](https://rigrunsai.com/can-m1-8gb-run-qwen3-32b): No. Qwen3 32B at Q4_K_M does not fit on Apple M1, 8 GB at 8,192 tokens, even with 8 GB of system RAM.
+- [Can Apple M1, 8 GB run Qwen3 30B-A3B?](https://rigrunsai.com/can-m1-8gb-run-qwen3-30b-a3b/): No. Qwen3 30B-A3B at Q4_K_M does not fit on Apple M1, 8 GB at 8,192 tokens, even with 8 GB of system RAM.
+- [Can Apple M1, 8 GB run Gemma 4 31B?](https://rigrunsai.com/can-m1-8gb-run-gemma-4-31b/): No. Gemma 4 31B at Q4_K_M does not fit on Apple M1, 8 GB at 8,192 tokens, even with 8 GB of system RAM.
+- [Can Apple M1, 8 GB run Qwen3 32B?](https://rigrunsai.com/can-m1-8gb-run-qwen3-32b/): No. Qwen3 32B at Q4_K_M does not fit on Apple M1, 8 GB at 8,192 tokens, even with 8 GB of system RAM.
 - [Can Apple M1, 8 GB run Qwen3.6 35B-A3B?](https://rigrunsai.com/can-m1-8gb-run-qwen3.6-35b-a3b): No. Qwen3.6 35B-A3B at UD-Q4_K_M does not fit on Apple M1, 8 GB at 8,192 tokens, even with 8 GB of system RAM.
 - [Can Apple M1, 8 GB run Llama 3.3 70B Instruct?](https://rigrunsai.com/can-m1-8gb-run-llama-3.3-70b): No. Llama 3.3 70B Instruct at Q4_K_M does not fit on Apple M1, 8 GB at 8,192 tokens, even with 8 GB of system RAM.
-- [Can GeForce RTX 5090 run gpt-oss-120b?](https://rigrunsai.com/can-rtx-5090-run-gpt-oss-120b): No. gpt-oss-120b at MXFP4 does not fit on GeForce RTX 5090 at 8,192 tokens, even with 32 GB of system RAM.
+- [Can GeForce RTX 5090 run gpt-oss-120b?](https://rigrunsai.com/can-rtx-5090-run-gpt-oss-120b/): No. gpt-oss-120b at MXFP4 does not fit on GeForce RTX 5090 at 8,192 tokens, even with 32 GB of system RAM.
 - [Can Apple M1, 8 GB run Llama 3.2 1B Instruct?](https://rigrunsai.com/can-m1-8gb-run-llama-3.2-1b): Yes. Apple M1, 8 GB runs Llama 3.2 1B Instruct at Q4_K_M with room left at 8,192 tokens, roughly 35–67 tokens per second.
