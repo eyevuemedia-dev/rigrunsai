@@ -60,7 +60,7 @@
 - [GeForce RTX 4090](https://rigrunsai.com/gpu/rtx-4090/): 24 GB GDDR, 1008 GB/s
 - [GeForce RTX 5060](https://rigrunsai.com/gpu/rtx-5060/): 8 GB GDDR, 448 GB/s
 - [GeForce RTX 5060 Ti 8GB](https://rigrunsai.com/gpu/rtx-5060-ti-8gb/): 8 GB GDDR, 448 GB/s
-- [GeForce RTX 5060 Ti 16GB](https://rigrunsai.com/gpu/rtx-5060-ti-16gb/): 16 GB GDDR, 448 GB/s
+- [GeForce RTX 5060 Ti 16GB](https://rigrunsai.com/gpu/rtx-5060-ti-16gb/): 16 GB GDDR, 448 GB/s. Buyer guide (updated 2026-10-22): measured llama.cpp speeds (gpt-oss-20b 92.1 tok/s at 4K, 43.8 at 128K; Qwen3 14B 41.1 at 4K), 16GB vs 8GB, vs 4060 Ti 16GB / 5070 / 5070 Ti / used 3090
 - [GeForce RTX 5070](https://rigrunsai.com/gpu/rtx-5070/): 12 GB GDDR, 672 GB/s
 - [GeForce RTX 5070 Ti](https://rigrunsai.com/gpu/rtx-5070-ti/): 16 GB GDDR, 896 GB/s
 - [GeForce RTX 5080](https://rigrunsai.com/gpu/rtx-5080/): 16 GB GDDR, 960 GB/s
