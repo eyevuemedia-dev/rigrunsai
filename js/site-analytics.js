@@ -7,7 +7,7 @@
 (function () {
   var CONFIG = {
     goatcounterCode: "",
-    cloudflareToken: ""
+    cloudflareToken: "810f2cb5ec024de08bdfeb97777e5ffa"
   };
   var d = document, w = window;
   function load(src, attrs) {
