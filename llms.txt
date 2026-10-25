@@ -50,7 +50,7 @@
 - [GeForce RTX 3060 Ti](https://rigrunsai.com/gpu/rtx-3060-ti/): 8 GB GDDR, 448 GB/s
 - [GeForce RTX 3070](https://rigrunsai.com/gpu/rtx-3070/): 8 GB GDDR, 448 GB/s
 - [GeForce RTX 3080 10GB](https://rigrunsai.com/gpu/rtx-3080-10gb/): 10 GB GDDR, 760 GB/s
-- [GeForce RTX 3090](https://rigrunsai.com/gpu/rtx-3090/): 24 GB GDDR, 936 GB/s
+- [GeForce RTX 3090](https://rigrunsai.com/gpu/rtx-3090/): 24 GB GDDR, 936 GB/s. Used-buyer guide (updated 2026-10-25): measured llama.cpp speeds (Qwen3 32B 35.1 tok/s at 4K, Qwen3 14B 52.1 at 16K, gpt-oss-20b 62.2 at 128K), vs 5070 Ti / 4090 / 5090, used-card checklist
 - [GeForce RTX 4060](https://rigrunsai.com/gpu/rtx-4060/): 8 GB GDDR, 272 GB/s
 - [GeForce RTX 4060 Ti 8GB](https://rigrunsai.com/gpu/rtx-4060-ti-8gb/): 8 GB GDDR, 288 GB/s
 - [GeForce RTX 4060 Ti 16GB](https://rigrunsai.com/gpu/rtx-4060-ti-16gb/): 16 GB GDDR, 288 GB/s
