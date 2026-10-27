@@ -5,7 +5,8 @@
 - [Home calculator](https://rigrunsai.com/): manual GPU, VRAM, RAM, and Mac entry
 - [Methodology](https://rigrunsai.com/methodology/): the formula. Since 2026-10-26, MoE speed estimates add a fixed 2 to 3.5 ms per token for expert routing and kernel overhead, fitted to Hardware Corner measured llama.cpp results; dense estimates unchanged.
 - [About RigRunsAI](https://rigrunsai.com/about/): who publishes the site (EYEVUE Ventures), how the numbers are made, contact eyevueventures@gmail.com.
-- [Privacy policy](https://rigrunsai.com/privacy/): cookieless Cloudflare Web Analytics, no accounts or forms, affiliate cookies set only on the retailer's site, no sale of data. Effective 2026-10-24.
+- [Privacy policy](https://rigrunsai.com/privacy/): cookieless Cloudflare Web Analytics, no accounts; an optional real-world test submission form (data + proof photo/link stored in Cloudflare, email optional and never published), affiliate cookies set only on the retailer's site, no sale of data. Effective 2026-10-27.
+- [Submit a real-world test](https://rigrunsai.com/submit-test/): readers send measured local LLM tok/s by GPU, model, quant and context with a photo or proof link. Every entry is reviewed by hand; verified results are published as "Verified owner test" data.
 - [Affiliate disclosure](https://rigrunsai.com/affiliate-disclosure/): Amazon Associates links, labeled and marked rel="sponsored".
 - [models.json](https://rigrunsai.com/data/models.json): CC-BY 4.0
 - [hardware.json](https://rigrunsai.com/data/hardware.json): CC-BY 4.0
