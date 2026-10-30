@@ -270,3 +270,10 @@ Pair pages:
 Formula: total = (GGUF bytes + KV bytes + 0.5 GiB) × 1.05.
 Fits at or below 85% of fast memory. Tight still fits. Offload needs system RAM. No does not fit.
 Data license: CC-BY 4.0. Amazon affiliate links (labeled; as an Amazon Associate we earn from qualifying purchases).
+
+## Hub pages (added 2026-10-30)
+- Best GPU for local LLMs (GPU hub): https://rigrunsai.com/gpu/ — updated 2026-10-30: all 34 PC GPUs and 5 handhelds ranked by how many of 33 catalog models fit at 8K; Hardware Corner measured 16K llama.cpp speeds (RTX 5060 Ti 16GB 51.4 tok/s Qwen3 8B and 82.4 gpt-oss-20b at $430 listed; used RTX 3090 ~$800 for 24 GB; RTX 5090 249.2 tok/s gpt-oss-20b); VRAM tier guide.
+- All models: https://rigrunsai.com/model/ — 33 open models with recommended GGUF size, max context, Ollama tag and how many of 34 PC GPUs fit each at 8K.
+- All Macs: https://rigrunsai.com/mac/ — 32 Apple silicon configurations with unified memory, bandwidth and fit counts at 8K.
+- Upgrade comparisons: https://rigrunsai.com/upgrade/ — 5 GPU upgrade comparisons showing which models each newer card unlocks.
+- Best model for your VRAM: https://rigrunsai.com/best-model-for/ — picks for 8, 12, 16, 24 and 32 GB.
