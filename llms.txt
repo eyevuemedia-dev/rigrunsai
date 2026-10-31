@@ -68,8 +68,8 @@
 - [GeForce RTX 4080 Super](https://rigrunsai.com/gpu/rtx-4080-super/): 16 GB GDDR, 736 GB/s
 - [GeForce RTX 4090](https://rigrunsai.com/gpu/rtx-4090/): 24 GB GDDR, 1008 GB/s
 - [GeForce RTX 5060](https://rigrunsai.com/gpu/rtx-5060/): 8 GB GDDR, 448 GB/s
-- [GeForce RTX 5060 Ti 8GB](https://rigrunsai.com/gpu/rtx-5060-ti-8gb/): 8 GB GDDR, 448 GB/s
-- [GeForce RTX 5060 Ti 16GB](https://rigrunsai.com/gpu/rtx-5060-ti-16gb/): 16 GB GDDR, 448 GB/s. Buyer guide (updated 2026-10-22): measured llama.cpp speeds (gpt-oss-20b 92.1 tok/s at 4K, 43.8 at 128K; Qwen3 14B 41.1 at 4K), 16GB vs 8GB, vs 4060 Ti 16GB / 5070 / 5070 Ti / used 3090
+- [GeForce RTX 5060 Ti 8GB](https://rigrunsai.com/gpu/rtx-5060-ti-8gb/): 8 GB GDDR7, 448 GB/s. Buyer guide (updated 2026-10-31): same-chip measured speeds (Qwen3 8B 69.2 tok/s at 4K, Llama 3.1 8B 83.2, Qwen3.5 9B 67.7), how much context 8 GB holds, 8GB vs 16GB at 2026-10-31 street prices ($529.99 vs $799.99 lowest new, a $270 gap), vs RTX 5060 / used 3060 12GB
+- [GeForce RTX 5060 Ti 16GB](https://rigrunsai.com/gpu/rtx-5060-ti-16gb/): 16 GB GDDR, 448 GB/s. Buyer guide (updated 2026-10-31, street price $799.99 lowest new): measured llama.cpp speeds (gpt-oss-20b 92.1 tok/s at 4K, 43.8 at 128K; Qwen3 14B 41.1 at 4K), 16GB vs 8GB, vs 4060 Ti 16GB / 5070 / 5070 Ti / used 3090
 - [GeForce RTX 5070](https://rigrunsai.com/gpu/rtx-5070/): 12 GB GDDR, 672 GB/s
 - [GeForce RTX 5070 Ti](https://rigrunsai.com/gpu/rtx-5070-ti/): 16 GB GDDR, 896 GB/s. Buyer guide (updated 2026-10-27): measured llama.cpp speeds (gpt-oss-20b 156.0 tok/s at 4K and 66.6 at 128K, Qwen3 14B 74.3 at 4K), all inside our estimate ranges; vs 3090 / 5080 / 5060 Ti; what fits in 16 GB; 750 W PSU
 - [GeForce RTX 5080](https://rigrunsai.com/gpu/rtx-5080/): 16 GB GDDR, 960 GB/s
