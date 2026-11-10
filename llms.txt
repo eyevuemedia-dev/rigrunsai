@@ -52,7 +52,7 @@
 - [SmolLM3 3B](https://rigrunsai.com/model/smollm3-3b/): Q4_K_M, 1.78 GiB, context 65536
 
 ## Hardware
-- [GeForce RTX 3060 12GB](https://rigrunsai.com/gpu/rtx-3060-12gb/): 12 GB GDDR, 360 GB/s
+- [GeForce RTX 3060 12GB](https://rigrunsai.com/gpu/rtx-3060-12gb/): 12 GB GDDR, 360 GB/s. Buyer guide (updated 2026-11-10): measured llama.cpp speeds (Qwen3 8B 55.2 tok/s at 4K, 31.9 at 32K; Qwen3 14B 31.2 at 4K, 22.7 at 16K, Hardware Corner), 14B fits with ~16K context, 12GB vs 8GB (128-bit, ~240 GB/s) trap, used $340 eBay median vs $459.99 new (Nov 10), dual-3060 24 GB estimate ~10-14 tok/s on Qwen3 32B vs 35.1 measured on a 3090.
 - [GeForce RTX 3060 Ti](https://rigrunsai.com/gpu/rtx-3060-ti/): 8 GB GDDR, 448 GB/s
 - [GeForce RTX 3070](https://rigrunsai.com/gpu/rtx-3070/): 8 GB GDDR, 448 GB/s
 - [GeForce RTX 3080 10GB](https://rigrunsai.com/gpu/rtx-3080-10gb/): 10 GB GDDR, 760 GB/s
