@@ -59,7 +59,7 @@
 - [GeForce RTX 3090](https://rigrunsai.com/gpu/rtx-3090/): 24 GB GDDR, 936 GB/s. Used-buyer guide (updated 2026-10-25): measured llama.cpp speeds (Qwen3 32B 35.1 tok/s at 4K, Qwen3 14B 52.1 at 16K, gpt-oss-20b 62.2 at 128K), vs 5070 Ti / 4090 / 5090, used-card checklist
 - [GeForce RTX 4060](https://rigrunsai.com/gpu/rtx-4060/): 8 GB GDDR, 272 GB/s
 - [GeForce RTX 4060 Ti 8GB](https://rigrunsai.com/gpu/rtx-4060-ti-8gb/): 8 GB GDDR, 288 GB/s
-- [GeForce RTX 4060 Ti 16GB](https://rigrunsai.com/gpu/rtx-4060-ti-16gb/): 16 GB GDDR, 288 GB/s. Buyer guide (updated 2026-10-28): measured llama.cpp speeds (gpt-oss-20b 63.2 tok/s at 4K and 31.1 at 128K, Qwen3 14B 27.4 at 4K); vs 5060 Ti 16GB (43-50% slower at 16K), 3060 12GB and 4060 Ti 8GB; value at $400 average market price
+- [GeForce RTX 4060 Ti 16GB](https://rigrunsai.com/gpu/rtx-4060-ti-16gb/): 16 GB GDDR, 288 GB/s. Buyer guide (prices updated 2026-11-11): measured llama.cpp speeds (gpt-oss-20b 63.2 tok/s at 4K and 31.1 at 128K, Qwen3 14B 27.4 at 4K); vs 5060 Ti 16GB (43-50% slower at 16K), 3060 12GB and 4060 Ti 8GB; used eBay sold median $660 (2026-11-10, GPU Sold) vs $720 used / $799.99 new 5060 Ti 16GB; break-even ~$489
 - [GeForce RTX 4070](https://rigrunsai.com/gpu/rtx-4070/): 12 GB GDDR, 504 GB/s
 - [GeForce RTX 4070 Super](https://rigrunsai.com/gpu/rtx-4070-super/): 12 GB GDDR, 504 GB/s
 - [GeForce RTX 4070 Ti](https://rigrunsai.com/gpu/rtx-4070-ti/): 12 GB GDDR, 504 GB/s
